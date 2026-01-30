@@ -9,7 +9,7 @@ export default defineConfig({
       '@': resolve(__dirname, 'src')
     }
   },
-  base: '/',
+  base: '/wanghenan.github.io/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
