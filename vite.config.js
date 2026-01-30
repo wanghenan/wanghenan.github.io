@@ -10,7 +10,7 @@ export default defineConfig({
       'vue': 'vue/dist/vue.esm-bundler.js'
     }
   },
-  base: '/wanghenan.github.io/',
+  base: './',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
