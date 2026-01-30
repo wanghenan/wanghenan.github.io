@@ -27,15 +27,28 @@
 
         <!-- 搜索和移动端菜单按钮 -->
         <div class="flex items-center space-x-4">
-          <button 
-            @click="toggleSearch"
-            class="p-2 text-gray-600 hover:text-primary transition-colors"
-            aria-label="搜索"
-          >
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-            </svg>
-          </button>
+          <!-- 搜索框（点击后浮现） -->
+          <div class="relative">
+            <button 
+              @click="toggleSearch"
+              class="p-2 text-gray-600 hover:text-primary transition-colors"
+              aria-label="搜索"
+            >
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </button>
+            
+            <!-- 搜索框浮现 -->
+            <transition name="fade">
+              <div 
+                v-if="searchOpen" 
+                class="absolute right-0 top-full mt-2 w-72 bg-white rounded-lg shadow-lg border border-gray-100 p-2 z-50"
+              >
+                <SearchBar @close="toggleSearch" />
+              </div>
+            </transition>
+          </div>
 
           <!-- 移动端菜单按钮 -->
           <button 
@@ -52,13 +65,6 @@
           </button>
         </div>
       </div>
-
-      <!-- 搜索框 -->
-      <transition name="slide-down">
-        <div v-if="searchOpen" class="py-4 border-t border-gray-100">
-          <SearchBar @close="toggleSearch" />
-        </div>
-      </transition>
 
       <!-- 移动端菜单 -->
       <transition name="slide-down">
