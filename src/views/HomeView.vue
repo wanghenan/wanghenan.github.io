@@ -8,7 +8,7 @@
         </h1>
 
         <!-- 三卡片介绍 -->
-        <div class="grid gap-4 text-left max-w-2xl mx-auto mb-6">
+        <div class="grid gap-4 text-left max-w-2xl mx-auto mt-8 mb-6">
           <div class="bg-white rounded-lg p-5 shadow-sm border border-gray-100">
             <span class="text-primary font-semibold text-lg">核心理念</span>
             <p class="mt-2 text-sm text-gray-600">像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。</p>
