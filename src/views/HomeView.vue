@@ -11,8 +11,8 @@
           在这里分享我的学习笔记、项目经验和思考。
         </p>
         
-        <!-- CTA按钮 -->
-        <div class="flex flex-wrap gap-4">
+        <!-- 所有按钮 -->
+        <div class="flex flex-wrap gap-4 justify-center">
           <router-link to="/articles" class="btn-primary">
             阅读文章
           </router-link>
@@ -21,10 +21,6 @@
                                           transition-all duration-300">
             了解更多
           </router-link>
-        </div>
-
-        <!-- 外部链接 -->
-        <div class="flex flex-wrap gap-4 mt-6">
           <a 
             href="https://blog.csdn.net/qq_33618717?type=blog" 
             target="_blank"
@@ -34,7 +30,7 @@
             <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
               <path d="M12.015 7.338c4.734-.622 7.676 2.044 8.503 5.365.471 1.895.272 3.712-.535 4.936-1.016 1.543-2.779 2.674-4.836 2.549-2.711-.165-3.683-2.373-5.303-4.045-1.03-1.063-1.94-1.148-2.378-.105-.628 1.494-1.127 3.131-1.913 4.563-1.336 2.436-4.043 2.765-5.666 1.118-1.437-1.46-1.378-4.478.108-5.893 3.027-2.882 7.688-5.17 12.02-5.888z"/>
             </svg>
-            CSDN博客
+            CSDN
           </a>
           <a 
             href="https://www.xiaohongshu.com/user/profile/6471d187000000002a03561e" 
