@@ -11,13 +11,6 @@
           在这里分享我的学习笔记、项目经验和思考。
         </p>
         
-        <!-- 技能标签 -->
-        <div class="flex flex-wrap gap-2 mb-8">
-          <span v-for="skill in skills" :key="skill" class="tag">
-            {{ skill }}
-          </span>
-        </div>
-
         <!-- CTA按钮 -->
         <div class="flex flex-wrap gap-4">
           <router-link to="/articles" class="btn-primary">
@@ -104,11 +97,6 @@ import { useArticlesStore } from '@/stores/articles'
 import ArticleCard from '@/components/ArticleCard.vue'
 
 const articlesStore = useArticlesStore()
-
-const skills = [
-  'Vue.js', 'TypeScript', 'Node.js', 'Python', 
-  'AWS', 'Docker', 'Git', 'UI/UX Design'
-]
 
 const featuredArticles = computed(() => {
   return articlesStore.articles.slice(0, 3)

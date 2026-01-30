@@ -11,7 +11,7 @@
               <span class="text-white text-3xl font-bold">W</span>
             </div>
             <div>
-              <h2 class="text-xl font-semibold text-dark">王贺南</h2>
+              <h2 class="text-xl font-semibold text-dark">Hernon</h2>
               <p class="text-gray-500">全栈开发者 & 技术博主</p>
             </div>
           </div>
@@ -21,47 +21,6 @@
           你好！我是一名热爱技术的全栈开发者，专注于Web开发和用户体验设计。
           我喜欢学习新技术，分享知识，并致力于构建更好的软件产品。
         </p>
-      </section>
-
-      <!-- 技术栈 -->
-      <section class="mb-12">
-        <h2 class="text-2xl font-bold text-dark mb-4">技术栈</h2>
-        <div class="card">
-          <div class="grid gap-4 md:grid-cols-2">
-            <div>
-              <h3 class="font-semibold text-dark mb-2">前端</h3>
-              <div class="flex flex-wrap gap-2">
-                <span v-for="tech in frontendTech" :key="tech" class="tag">
-                  {{ tech }}
-                </span>
-              </div>
-            </div>
-            <div>
-              <h3 class="font-semibold text-dark mb-2">后端</h3>
-              <div class="flex flex-wrap gap-2">
-                <span v-for="tech in backendTech" :key="tech" class="tag">
-                  {{ tech }}
-                </span>
-              </div>
-            </div>
-            <div>
-              <h3 class="font-semibold text-dark mb-2">工具</h3>
-              <div class="flex flex-wrap gap-2">
-                <span v-for="tech in tools" :key="tech" class="tag">
-                  {{ tech }}
-                </span>
-              </div>
-            </div>
-            <div>
-              <h3 class="font-semibold text-dark mb-2">其他</h3>
-              <div class="flex flex-wrap gap-2">
-                <span v-for="tech in otherTech" :key="tech" class="tag">
-                  {{ tech }}
-                </span>
-              </div>
-            </div>
-          </div>
-        </div>
       </section>
 
       <!-- 联系信息 -->
@@ -80,13 +39,13 @@
               <span>GitHub</span>
             </a>
             <a 
-              href="mailto:wanghenan@example.com"
+              href="mailto:976062158@qq.com"
               class="flex items-center space-x-3 text-gray-600 hover:text-primary transition-colors"
             >
               <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
-              <span>wanghenan@example.com</span>
+              <span>976062158@qq.com</span>
             </a>
           </div>
         </div>
@@ -96,8 +55,4 @@
 </template>
 
 <script setup>
-const frontendTech = ['Vue.js', 'React', 'TypeScript', 'Tailwind CSS', 'Redux']
-const backendTech = ['Node.js', 'Python', 'Express', 'Django', 'PostgreSQL']
-const tools = ['Git', 'Docker', 'AWS', 'Figma', 'VS Code']
-const otherTech = ['RESTful API', 'GraphQL', 'TDD', 'CI/CD']
 </script>
