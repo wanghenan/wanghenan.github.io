@@ -8,7 +8,7 @@
             <span class="text-white font-bold text-sm">W</span>
           </div>
           <span class="font-semibold text-lg text-dark hover:text-primary transition-colors">
-            王贺南
+            Hernon
           </span>
         </router-link>
 

@@ -4,7 +4,7 @@
       <div class="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
         <!-- 版权信息 -->
         <div class="text-sm text-gray-500">
-          © {{ currentYear }} 王贺南. All rights reserved.
+          © {{ currentYear }} Hernon. All rights reserved.
         </div>
 
         <!-- 社交链接 -->
@@ -45,7 +45,7 @@
             </svg>
           </a>
           <a 
-            href="mailto:wanghenan@example.com" 
+            href="mailto:976062158@qq.com" 
             class="text-gray-400 hover:text-primary transition-colors"
             aria-label="Email"
           >

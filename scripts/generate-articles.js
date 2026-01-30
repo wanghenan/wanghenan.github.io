@@ -79,9 +79,12 @@ function extractMetadata(filePath, content, body) {
   // 生成标签
   const tags = frontmatter.tags || [dirName, '技术文章']
   
+  // 类别前缀（从目录名提取）
+  const categoryPrefix = dirName.replace(/^(\d+[-_]?)/, '').trim()
+  
   return {
     id: Date.now() + Math.random(),
-    title,
+    title: `[${categoryPrefix}] ${title}`,
     description,
     content: body,
     tags,
