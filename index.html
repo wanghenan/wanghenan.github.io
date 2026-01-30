@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hernon</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    .avatar {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 4px solid rgba(255,255,255,0.3);
+      margin-bottom: 24px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+    }
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 300;
+      letter-spacing: 0.2em;
+      margin-bottom: 20px;
+    }
+    .tags {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-bottom: 30px;
+    }
+    .tag {
+      background: rgba(255,255,255,0.2);
+      padding: 8px 20px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      backdrop-filter: blur(10px);
+    }
+    .links {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .link {
+      color: white;
+      text-decoration: none;
+      padding: 10px 24px;
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 8px;
+      transition: all 0.3s ease;
+    }
+    .link:hover {
+      background: rgba(255,255,255,0.2);
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body>
+  <img class="avatar" src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Hernon">
+  <h1>HERNON</h1>
+  <div class="tags">
+    <span class="tag">AI智能体</span>
+    <span class="tag">微服务架构</span>
+    <span class="tag">AI绘画</span>
+  </div>
+  <div class="links">
+    <a class="link" href="https://blog.csdn.net/qq_413767275" target="_blank">CSDN</a>
+    <a class="link" href="https://www.xiaohongshu.com/user/profile/5f4d0f4e000000000100acd9" target="_blank">小红书</a>
+    <a class="link" href="https://github.com/wanghenan" target="_blank">GitHub</a>
+  </div>
+</body>
+</html>
