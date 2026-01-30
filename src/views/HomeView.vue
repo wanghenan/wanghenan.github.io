@@ -2,7 +2,7 @@
   <div class="animate-fade-in">
     <!-- Hero Section -->
     <section class="py-16 md:py-24">
-      <div class="max-w-3xl">
+      <div class="max-w-3xl mx-auto text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-dark mb-6">
           你好，我是<span class="text-primary">Hernon</span>
         </h1>

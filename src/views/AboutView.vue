@@ -11,15 +11,15 @@
               <span class="text-white text-3xl font-bold">W</span>
             </div>
             <div>
-              <h2 class="text-xl font-semibold text-dark">Hernon</h2>
-              <p class="text-gray-500">全栈开发者 & 技术博主</p>
+              <h2 class="text-xl font-semibold text-dark">AI解决方案师</h2>
+              <p class="text-gray-500">AI解决方案师 & 技术博主</p>
             </div>
           </div>
         </div>
 
         <p class="text-gray-600 leading-relaxed mb-4">
-          你好！我是一名热爱技术的全栈开发者，专注于Web开发和用户体验设计。
-          我喜欢学习新技术，分享知识，并致力于构建更好的软件产品。
+          你好！我是一名解决方案师。
+          我喜欢学习业务，技术，分享知识，并致力于构建更好的产品。
         </p>
       </section>
 
