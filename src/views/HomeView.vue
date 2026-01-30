@@ -7,12 +7,20 @@
           你好，我是<span class="text-primary">Hernon</span>
         </h1>
         <p class="text-lg text-gray-600 leading-relaxed mb-8 text-center">
-          <span class="text-primary font-semibold block mb-2">AI Solution Architect</span>
-          核心理念 > 像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。
-          <br><br>
-          专业擅长 > 复杂需求梳理 · 标准化流程建立 · 跨团队技术管理
-          <br><br>
-          实战沉淀 > 聚焦技术选型、流程优化与生产力工具集成的深度思考。
+          <div class="grid gap-4 text-left">
+            <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+              <span class="text-primary font-semibold">核心理念</span>
+              <p class="mt-1 text-sm">像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。</p>
+            </div>
+            <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+              <span class="text-primary font-semibold">专业擅长</span>
+              <p class="mt-1 text-sm">复杂需求梳理 · 标准化流程建立 · 跨团队技术管理</p>
+            </div>
+            <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+              <span class="text-primary font-semibold">实战沉淀</span>
+              <p class="mt-1 text-sm">聚焦技术选型、流程优化与生产力工具集成的深度思考。</p>
+            </div>
+          </div>
         </p>
         
         <!-- 所有按钮 -->
