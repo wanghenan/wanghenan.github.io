@@ -56,7 +56,8 @@ export const useArticlesStore = defineStore('articles', () => {
   // Actions
   function getArticleById(id) {
     loading.value = true
-    currentArticle.value = articles.value.find(a => a.id === parseInt(id))
+    const searchId = typeof id === 'string' ? Math.floor(parseFloat(id)) : id
+    currentArticle.value = articles.value.find(a => Math.floor(a.id) === searchId)
     loading.value = false
     return currentArticle.value
   }

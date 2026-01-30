@@ -1,5 +1,5 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./HomeView-BFPleM3T.js","./vue-vendor-BLrJPrAN.js","./ArticleCard-DLZaPDih.js","./ArticlesView-oVlOZ9Ep.js","./ArticleView-9uZYLI9J.js","./ArticleView-C29hGiyQ.css","./TagsView-sVBu5Up_.js","./TagView-D6mSEaGl.js","./ArchiveView-BZG87n8O.js","./AboutView-DdOUTWyw.js","./NotFoundView-hK3yvbao.js"])))=>i.map(i=>d[i]);
-import{d as D,r as A,c as v,u as x,o as G,a as h,b as m,e as r,w as O,v as B,f as L,g as _,h as y,t as b,F as I,i as M,T as P,j as w,k as T,l as N,m as $,n as K,p as F,q as H,s as U,x as Q,y as V}from"./vue-vendor-BLrJPrAN.js";(function(){const l=document.createElement("link").relList;if(l&&l.supports&&l.supports("modulepreload"))return;for(const n of document.querySelectorAll('link[rel="modulepreload"]'))a(n);new MutationObserver(n=>{for(const i of n)if(i.type==="childList")for(const p of i.addedNodes)p.tagName==="LINK"&&p.rel==="modulepreload"&&a(p)}).observe(document,{childList:!0,subtree:!0});function s(n){const i={};return n.integrity&&(i.integrity=n.integrity),n.referrerPolicy&&(i.referrerPolicy=n.referrerPolicy),n.crossOrigin==="use-credentials"?i.credentials="include":n.crossOrigin==="anonymous"?i.credentials="omit":i.credentials="same-origin",i}function a(n){if(n.ep)return;n.ep=!0;const i=s(n);fetch(n.href,i)}})();const J=[{id:1769791659659521e-3,title:"[AI智能体] - 评估与监控 初探",description:`在 2025 年的 AI 工业界，我们已经达成了一个共识：构建一个 Agent 可能只需要一个周末，但让它稳定地跑在生产环境里，需要一整套严密的评估与监控体系。
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./HomeView-WUE7siXu.js","./vue-vendor-BLrJPrAN.js","./ArticleCard-DLZaPDih.js","./ArticlesView-qfQ9hV5L.js","./ArticleView-BDUPh3-8.js","./ArticleView-C29hGiyQ.css","./TagsView-Cp0l1P4D.js","./TagView-BTP9rJRM.js","./ArchiveView-CCEqYVxf.js","./AboutView-BEgqMkwz.js","./NotFoundView-D231PyuL.js"])))=>i.map(i=>d[i]);
+import{d as D,r as A,c as v,u as x,o as G,a as h,b as m,e as r,w as O,v as B,f as L,g as _,h as y,t as b,F as I,i as M,T as P,j as w,k as T,l as N,m as $,n as K,p as F,q as H,s as U,x as Q,y as V}from"./vue-vendor-BLrJPrAN.js";(function(){const l=document.createElement("link").relList;if(l&&l.supports&&l.supports("modulepreload"))return;for(const n of document.querySelectorAll('link[rel="modulepreload"]'))a(n);new MutationObserver(n=>{for(const i of n)if(i.type==="childList")for(const d of i.addedNodes)d.tagName==="LINK"&&d.rel==="modulepreload"&&a(d)}).observe(document,{childList:!0,subtree:!0});function s(n){const i={};return n.integrity&&(i.integrity=n.integrity),n.referrerPolicy&&(i.referrerPolicy=n.referrerPolicy),n.crossOrigin==="use-credentials"?i.credentials="include":n.crossOrigin==="anonymous"?i.credentials="omit":i.credentials="same-origin",i}function a(n){if(n.ep)return;n.ep=!0;const i=s(n);fetch(n.href,i)}})();const J=[{id:1769792702089,title:"[AI智能体] - 评估与监控 初探",description:`在 2025 年的 AI 工业界，我们已经达成了一个共识：构建一个 Agent 可能只需要一个周末，但让它稳定地跑在生产环境里，需要一整套严密的评估与监控体系。
 
 由于智能体具有随机性（Stochastic nature）和自主性（Autonomy），传统的软件 QA（质量保证）方法在面对它们时往往显得苍白无力。本方案将基于《评估与监控》的核心理念，结合业界最前沿的 Contractor（承包商...`,content:`
 在 2025 年的 AI 工业界，我们已经达成了一个共识：**构建一个 Agent 可能只需要一个周末，但让它稳定地跑在生产环境里，需要一整套严密的评估与监控体系。**
@@ -288,7 +288,7 @@ async def run_pipeline():
     2.Agent-as-a-Judge: Evaluate Agents with Agents, 2024.
     3.Google ADK Documentation.
     4.Antonio Gulli 《Agentic Design Patterns》
-`,tags:["AI智能体","技术文章"],date:"2025-12-29",readTime:"14分钟",views:4589,html:`<p>在 2025 年的 AI 工业界，我们已经达成了一个共识：<strong>构建一个 Agent 可能只需要一个周末，但让它稳定地跑在生产环境里，需要一整套严密的评估与监控体系。</strong></p>
+`,tags:["AI智能体","技术文章"],date:"2025-12-29",readTime:"14分钟",views:2730,html:`<p>在 2025 年的 AI 工业界，我们已经达成了一个共识：<strong>构建一个 Agent 可能只需要一个周末，但让它稳定地跑在生产环境里，需要一整套严密的评估与监控体系。</strong></p>
 <p>由于智能体具有随机性（Stochastic nature）和自主性（Autonomy），传统的软件 QA（质量保证）方法在面对它们时往往显得苍白无力。本方案将基于《评估与监控》的核心理念，结合业界最前沿的 <strong>Contractor（承包商）模型</strong> 和 <strong>LLM-as-a-Judge</strong> 范式，为您拆解一套完整的工业级设计。
 为什么评估与监控（Evaluation and Monitoring） 被视为智能体通向工程化成熟的“最后一公里”，目前这部分也是大部分人忽略或认为难度一般的环节，但它其实是业界较难的痛点，做好该环节比预训练环节还要困难重重，这里就是初探。</p>
 <hr>
@@ -534,7 +534,7 @@ async def run_pipeline():
 3.Google ADK Documentation.
 4.Antonio Gulli 《Agentic Design Patterns》
 </code></pre>
-`},{id:17697916595960195e-4,title:"[AI智能体] - A2A协议",description:`打破孤岛：Google A2A 协议——构建下一代多智能体协作系统的基石
+`},{id:1769792702543,title:"[AI智能体] - A2A协议",description:`打破孤岛：Google A2A 协议——构建下一代多智能体协作系统的基石
 
 在 AI 智能体（AI Agents）飞速发展的今天，我们拥有了基于 LangGraph、CrewAI、Google ADK 等不同框架构建的强大智能体。然而，这些“超级大脑”往往各自为战，形成了新的技术孤岛。如何让基于不同技术栈的智能体像人类团队一样无缝协作？Google 推出的 Agent-to-Agent (A2A...`,content:`# 打破孤岛：Google A2A 协议——构建下一代多智能体协作系统的基石
 
@@ -860,7 +860,7 @@ Google A2A 协议不仅是一项技术标准，更是一种思维方式的转变
 5.Google Agent Discovery - https://a2a-protocol.org/latest/
 6.Communication between different AI frameworks such as LangGraph, CrewAI, and Google ADK https://www.trickle.so/blog/how-to-build-google-a2a-project
 7.Designing Collaborative Multi-Agent Systems with the A2A Protocol https://www.oreilly.com/radar/designing-collaborative-multi-agent-systems-with-the-a2a-protocol/
-8.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"18分钟",views:2995,html:`<h1>打破孤岛：Google A2A 协议——构建下一代多智能体协作系统的基石</h1>
+8.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"18分钟",views:3695,html:`<h1>打破孤岛：Google A2A 协议——构建下一代多智能体协作系统的基石</h1>
 <p>在 AI 智能体（AI Agents）飞速发展的今天，我们拥有了基于 LangGraph、CrewAI、Google ADK 等不同框架构建的强大智能体。然而，这些“超级大脑”往往各自为战，形成了新的技术孤岛。如何让基于不同技术栈的智能体像人类团队一样无缝协作？Google 推出的 <strong>Agent-to-Agent (A2A)</strong> 协议正是为了解决这一核心难题。本文将深入剖析 A2A 的核心概念、通信模式、安全机制，并通过实战代码展示如何构建一个可互操作的日历助手。</p>
 <hr>
 <h2>1. 引言：从“单兵作战”到“团队协同”</h2>
@@ -1139,7 +1139,7 @@ if __name__ == &#39;__main__&#39;:
 6.Communication between different AI frameworks such as LangGraph, CrewAI, and Google ADK <a href="https://www.trickle.so/blog/how-to-build-google-a2a-project">https://www.trickle.so/blog/how-to-build-google-a2a-project</a>
 7.Designing Collaborative Multi-Agent Systems with the A2A Protocol <a href="https://www.oreilly.com/radar/designing-collaborative-multi-agent-systems-with-the-a2a-protocol/">https://www.oreilly.com/radar/designing-collaborative-multi-agent-systems-with-the-a2a-protocol/</a>
 8.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596142205e-4,title:"[AI智能体] - RAG",description:`🚀 从“背书”到“开卷考试”：RAG 与智能体式检索的终极指南
+`},{id:1769792702085,title:"[AI智能体] - RAG",description:`🚀 从“背书”到“开卷考试”：RAG 与智能体式检索的终极指南
 
 AI 智能体设计模式系列（第十四篇）
 
@@ -1564,7 +1564,7 @@ RAG 技术正在经历从“简单的向量搜索”向“复杂的智能体推�
 5.Google Cloud Vertex AI RAG Corpus https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/manage-your-rag-corpus#corpus-management
 
 6.Antonio Gulli 《Agentic Design Patterns》
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"23分钟",views:547,html:`<h1>🚀 从“背书”到“开卷考试”：RAG 与智能体式检索的终极指南</h1>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"23分钟",views:1350,html:`<h1>🚀 从“背书”到“开卷考试”：RAG 与智能体式检索的终极指南</h1>
 <p><strong>AI 智能体设计模式系列（第十四篇）</strong></p>
 <h2>📖 引言：打破 LLM 的认知围墙</h2>
 <p>大语言模型（LLM）是当今科技界最伟大的“通才”。它们博古通今，能写诗、能编码、能通过律师资格考试。然而，在企业级应用中，我们常常撞上一堵无形的“认知围墙”：</p>
@@ -1930,7 +1930,7 @@ rag_agent = Agent(
 <p>4.LangChain and LangGraph: Leonie Monigatti, &quot;Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation,&quot; <a href="https://medium.com/data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2">https://medium.com/data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2</a></p>
 <p>5.Google Cloud Vertex AI RAG Corpus <a href="https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/manage-your-rag-corpus#corpus-management">https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/manage-your-rag-corpus#corpus-management</a></p>
 <p>6.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596170608e-4,title:"[AI智能体] - 人机协同模式",description:`📖 引言：在效率与伦理之间找到平衡
+`},{id:1769792701815,title:"[AI智能体] - 人机协同模式",description:`📖 引言：在效率与伦理之间找到平衡
 
 随着 AI 智能体能力的飞速增长，我们赋予了它们自主决策、使用工具和自我修正的能力。然而，智能体的能力并非无限，尤其是在涉及道德判断、模糊性处理和高风险后果的场景中，人类的参与不仅是可选的，更是强制性的安全阀。
 
@@ -2304,7 +2304,7 @@ if __name__ == "__main__":
 ## 参考资料：
 
 1.A Survey of Human-in-the-loop for Machine Learning, Xingjiao Wu, Luwei Xiao, Yixuan Sun, Junhang Zhang, Tianlong Ma, Liang He, https://arxiv.org/abs/2108.00941
-2.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"21分钟",views:2011,html:`<h2>📖 引言：在效率与伦理之间找到平衡</h2>
+2.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"21分钟",views:673,html:`<h2>📖 引言：在效率与伦理之间找到平衡</h2>
 <p>随着 AI 智能体能力的飞速增长，我们赋予了它们自主决策、使用工具和自我修正的能力。然而，智能体的能力并非无限，尤其是在涉及<strong>道德判断</strong>、<strong>模糊性处理</strong>和<strong>高风险后果</strong>的场景中，人类的参与不仅是可选的，更是<strong>强制性的安全阀</strong>。</p>
 <p><strong>第十三篇：“人机协同”（Human-in-the-Loop, HITL）模式</strong> 承认了 AI 的这一局限性。它是一种战略性方法，旨在将人类特有的判断力、常识和伦理认知与 AI 的速度、规模和数据处理能力相结合，形成一个 <strong>共生（Symbiotic）</strong> 的协作系统。</p>
 <p>本章将深入探讨 HITL 的核心架构、应用场景，并展示如何使用 <strong>LangGraph</strong> 和 <strong>Pydantic</strong> 设计出可控、透明且高效的人机协作流程。</p>
@@ -2678,7 +2678,7 @@ if __name__ == &quot;__main__&quot;:
 <h2>参考资料：</h2>
 <p>1.A Survey of Human-in-the-loop for Machine Learning, Xingjiao Wu, Luwei Xiao, Yixuan Sun, Junhang Zhang, Tianlong Ma, Liang He, <a href="https://arxiv.org/abs/2108.00941">https://arxiv.org/abs/2108.00941</a>
 2.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596201707e-4,title:"[AI智能体] - 反思模式",description:`在我们的AI智能体设计系列中，我们已经走过了一段漫长的路。
+`},{id:1769792702428,title:"[AI智能体] - 反思模式",description:`在我们的AI智能体设计系列中，我们已经走过了一段漫长的路。
 
 1.  在 提示链 (Prompt Chaining)(https://blog.csdn.net/qq_33618717/article/details/154541015) 中，我们学会了如何像组装流水线一样，将复杂任务分解为可靠的顺序步骤。
 2.  在 路由 (Routing)(https://blog.csdn.net/qq_3...`,content:`在我们的AI智能体设计系列中，我们已经走过了一段漫长的路。
@@ -3161,7 +3161,7 @@ review_pipeline = SequentialAgent(
 
 4. Antonio Gulli 《Agentic Design Patterns》
 
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"30分钟",views:3919,html:`<p>在我们的AI智能体设计系列中，我们已经走过了一段漫长的路。</p>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"30分钟",views:3216,html:`<p>在我们的AI智能体设计系列中，我们已经走过了一段漫长的路。</p>
 <ol>
 <li>在 <strong><a href="https://blog.csdn.net/qq_33618717/article/details/154541015">提示链 (Prompt Chaining)</a></strong> 中，我们学会了如何像组装流水线一样，将复杂任务分解为可靠的<strong>顺序步骤</strong>。</li>
 <li>在 <strong><a href="https://blog.csdn.net/qq_33618717/article/details/154541486">路由 (Routing)</a></strong> 中，我们为智能体安装了“交通枢纽”，让它能够根据<strong>条件逻辑</strong>做出动态决策。</li>
@@ -3676,7 +3676,7 @@ review_pipeline = SequentialAgent(
 <li><p>Antonio Gulli 《Agentic Design Patterns》</p>
 </li>
 </ol>
-`},{id:17697916596272148e-4,title:"[AI智能体] - 多智能体模式",description:`在人工智能的演进历程中，我们正经历从“全能天才”向“专家团队”的范式转变。
+`},{id:1769792701757,title:"[AI智能体] - 多智能体模式",description:`在人工智能的演进历程中，我们正经历从“全能天才”向“专家团队”的范式转变。
 
 在早期的大语言模型（LLM）应用中，我们试图构建一个“超级智能体”——一个无所不知、无所不能的单体系统，既能写代码，又能做市场调研，还能处理客户投诉。然而，现实很快给了我们教训：当任务的上下文过长、领域跨度过大或逻辑链条过深时，单体智能体会陷入“认知过载”，导致幻觉频发、指令遗漏或逻辑崩塌。
 
@@ -4281,7 +4281,7 @@ artist_agent = LlmAgent(
 
 2.Multi-Agent System — The Power of Collaboration, https://aravindakumar.medium.com/introducing-multi-agent-frameworks-the-power-of-collaboration-e9db31bba1b6
 
-3.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"30分钟",views:2259,html:`<p>在人工智能的演进历程中，我们正经历从“全能天才”向“专家团队”的范式转变。</p>
+3.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"30分钟",views:1177,html:`<p>在人工智能的演进历程中，我们正经历从“全能天才”向“专家团队”的范式转变。</p>
 <p>在早期的大语言模型（LLM）应用中，我们试图构建一个“超级智能体”——一个无所不知、无所不能的单体系统，既能写代码，又能做市场调研，还能处理客户投诉。然而，现实很快给了我们教训：当任务的上下文过长、领域跨度过大或逻辑链条过深时，单体智能体会陷入“认知过载”，导致幻觉频发、指令遗漏或逻辑崩塌。</p>
 <p>正如人类社会通过分工协作创造了现代文明，AI 的未来也不在于单个模型的参数无限堆叠，而在于<strong>多智能体协作（Multi-Agent Collaboration）</strong>。</p>
 <p>本篇将带您深入探索这一核心架构模式。我们将揭示如何通过任务分解、角色专业化和标准化的通信协议，将一群能力有限的智能体组装成一个超越个体总和的强大系统。</p>
@@ -4833,7 +4833,7 @@ artist_agent = LlmAgent(
 <p>1.Multi-Agent Collaboration Mechanisms: A Survey of LLMs, <a href="https://arxiv.org/abs/2501.06322">https://arxiv.org/abs/2501.06322</a></p>
 <p>2.Multi-Agent System — The Power of Collaboration, <a href="https://aravindakumar.medium.com/introducing-multi-agent-frameworks-the-power-of-collaboration-e9db31bba1b6">https://aravindakumar.medium.com/introducing-multi-agent-frameworks-the-power-of-collaboration-e9db31bba1b6</a></p>
 <p>3.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596320662e-4,title:"[AI智能体] - 学习与适应能力",description:`📖 前言：从“静态程序”到“数字生命”
+`},{id:1769792702092,title:"[AI智能体] - 学习与适应能力",description:`📖 前言：从“静态程序”到“数字生命”
 
 在传统的软件工程中，代码一旦部署，其行为就是确定的。if 条件不会自己改变，数据库的查询逻辑也不会因为查询了一万次而变得更聪明。然而，AI 智能体（AI Agents）的出现打破了这一僵局。
 
@@ -5234,7 +5234,7 @@ print(f"\\n--- 适应后的回答 ---\\n{response.content}")
 
 1.AlphaEvolve: https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
 2.OpenEvolve: https://github.com/codelion/openevolve
-3.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"21分钟",views:1287,html:`<h2>📖 前言：从“静态程序”到“数字生命”</h2>
+3.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"21分钟",views:1880,html:`<h2>📖 前言：从“静态程序”到“数字生命”</h2>
 <p>在传统的软件工程中，代码一旦部署，其行为就是确定的。<code>if</code> 条件不会自己改变，数据库的查询逻辑也不会因为查询了一万次而变得更聪明。然而，AI 智能体（AI Agents）的出现打破了这一僵局。</p>
 <p>我们正处于一个范式转移的时刻：<strong>从构建工具，转向构建能够进化的系统。</strong></p>
 <p>如果一个智能体在面对第 100 个用户时，表现得和面对第 1 个用户时一模一样，那么它就是一个失败的智能体。真正的智能体（Agentic AI）必须具备 <strong>学习与适应（Learning and Adaptation）</strong> 的能力——它们应该像新员工一样，从错误中吸取教训，从反馈中优化策略，甚至修改自己的代码以适应不断变化的环境。</p>
@@ -5622,7 +5622,7 @@ print(f&quot;\\n--- 适应后的回答 ---\\n{response.content}&quot;)
 <p>1.AlphaEvolve: <a href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/">https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</a>
 2.OpenEvolve: <a href="https://github.com/codelion/openevolve">https://github.com/codelion/openevolve</a>
 3.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596348252e-4,title:"[AI智能体] - 工具使用模式 Function Calling",description:`在我们的AI智能体设计系列中，我们已经为我们的智能体构建了“心智”：
+`},{id:1769792702586,title:"[AI智能体] - 工具使用模式 Function Calling",description:`在我们的AI智能体设计系列中，我们已经为我们的智能体构建了“心智”：
 
 1.   提示链 (Prompt Chaining)(https://blog.csdn.net/qq_33618717/article/details/154541015) ：构建了可靠的“线性思维”（顺序执行）。
 2.  路由 (Routing)(https://blog.csdn.net/qq_33618717/arti...`,content:`在我们的AI智能体设计系列中，我们已经为我们的智能体构建了“心智”：
@@ -6465,7 +6465,7 @@ async def main():
 
 5.Antonio Gulli 《Agentic Design Patterns》
 
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"48分钟",views:3607,html:`<p>在我们的AI智能体设计系列中，我们已经为我们的智能体构建了“心智”：</p>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"48分钟",views:3722,html:`<p>在我们的AI智能体设计系列中，我们已经为我们的智能体构建了“心智”：</p>
 <ol>
 <li><strong><a href="https://blog.csdn.net/qq_33618717/article/details/154541015">提示链 (Prompt Chaining)</a></strong> ：构建了可靠的“线性思维”（顺序执行）。</li>
 <li><strong><a href="https://blog.csdn.net/qq_33618717/article/details/154541486">路由 (Routing)</a></strong>：安装了“决策中枢”（条件逻辑）。</li>
@@ -7291,7 +7291,7 @@ async def main():
 <p>3.OpenAI 函数调用文档：<a href="https://platform.openai.com/docs/guides/function-calling">https://platform.openai.com/docs/guides/function-calling</a></p>
 <p>4.CrewAI 文档（工具使用）：<a href="https://docs.crewai.com/concepts/tools">https://docs.crewai.com/concepts/tools</a></p>
 <p>5.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596384966e-4,title:"[AI智能体] - 并行模式",description:`在我们的AI智能体设计系列中，我们已经探讨了两种基础模式：
+`},{id:1769792702213,title:"[AI智能体] - 并行模式",description:`在我们的AI智能体设计系列中，我们已经探讨了两种基础模式：
 
 1.  提示链模式（Prompt Chaining）：如同精密的流水线，通过严格的顺序执行来保证复杂任务的可靠性。
 2.  路由模式（Routing Pattern：如同智能的“交通枢纽”，通过条件逻辑让智能体学会了决策和分诊。
@@ -7858,7 +7858,7 @@ ADK的方法更侧重于定义 **“谁”**（\`LlmAgent\`）以及 **“他们
 
 掌握了并行模式，我们的智能体才能真正摆脱“一问一答”的延迟束缚，才能在用户失去耐心之前，迅速地从多个维度收集信息、从多个角度思考问题、从多个来源生成内容。
 
-将**链式（结构）**、**路由（决策）** 和 **并行（效率）** 这三者结合起来，我们才能最终构建出那些我们真正期待的——反应迅速、智能高效、能力强大的AI智能体。`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"33分钟",views:4540,html:`<p>在我们的AI智能体设计系列中，我们已经探讨了两种基础模式：</p>
+将**链式（结构）**、**路由（决策）** 和 **并行（效率）** 这三者结合起来，我们才能最终构建出那些我们真正期待的——反应迅速、智能高效、能力强大的AI智能体。`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"33分钟",views:5025,html:`<p>在我们的AI智能体设计系列中，我们已经探讨了两种基础模式：</p>
 <ol>
 <li><strong>提示链模式（Prompt Chaining）</strong>：如同精密的流水线，通过严格的<strong>顺序执行</strong>来保证复杂任务的可靠性。</li>
 <li><strong>路由模式（Routing Pattern</strong>：如同智能的“交通枢纽”，通过<strong>条件逻辑</strong>让智能体学会了决策和分诊。</li>
@@ -8441,7 +8441,7 @@ root_agent = sequential_pipeline_agent
 <p>并行化不仅仅是一种技术优化，它是一种思维方式的转变。它迫使我们不再将任务视为单一的线性流程，而是将其解构为一张依赖关系图，从而找出可以“分身”处理的部分。</p>
 <p>掌握了并行模式，我们的智能体才能真正摆脱“一问一答”的延迟束缚，才能在用户失去耐心之前，迅速地从多个维度收集信息、从多个角度思考问题、从多个来源生成内容。</p>
 <p>将<strong>链式（结构）</strong>、<strong>路由（决策）</strong> 和 <strong>并行（效率）</strong> 这三者结合起来，我们才能最终构建出那些我们真正期待的——反应迅速、智能高效、能力强大的AI智能体。</p>
-`},{id:17697916596422598e-4,title:"[AI智能体] - 异常处理与自我修复能力",description:`📖 引言：在异常中恢复
+`},{id:1769792702666,title:"[AI智能体] - 异常处理与自我修复能力",description:`📖 引言：在异常中恢复
 
 在实验室里，AI 智能体总是运行得完美无缺：API 永远响应迅速，数据库永远在线，用户输入永远清晰明确。但在现实世界中，情况截然不同。
 
@@ -8840,7 +8840,7 @@ print(f"✅ 解析成功: {result}")
 1.Improving Fault Tolerance and Reliability of Heterogeneous Multi-Agent IoT Systems Using Intelligence Transfer
 
 2.Antonio Gulli 《Agentic Design Patterns》 
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"20分钟",views:2782,html:`<h2>📖 引言：在异常中恢复</h2>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"20分钟",views:2102,html:`<h2>📖 引言：在异常中恢复</h2>
 <p>在实验室里，AI 智能体总是运行得完美无缺：API 永远响应迅速，数据库永远在线，用户输入永远清晰明确。但在现实世界中，情况截然不同。</p>
 <ul>
 <li>外部 API 会突然返回 <code>502 Bad Gateway</code>。</li>
@@ -9175,7 +9175,7 @@ print(f&quot;✅ 解析成功: {result}&quot;)
 <h2>参考资料</h2>
 <p>1.Improving Fault Tolerance and Reliability of Heterogeneous Multi-Agent IoT Systems Using Intelligence Transfer</p>
 <p>2.Antonio Gulli 《Agentic Design Patterns》 </p>
-`},{id:17697916596439788e-4,title:"[AI智能体] - 推理技术",description:`深度推理：从“快速响应”到“深度思考”的智能体革命
+`},{id:1769792701799,title:"[AI智能体] - 推理技术",description:`深度推理：从“快速响应”到“深度思考”的智能体革命
 
 在人工智能的早期，我们往往追求模型的“响应速度”：你输入指令，模型瞬间吐出答案。这种“快思考”（系统 1）对于日常聊天绰绰有余，但在处理复杂的财务审计、法律分析、数学证明或软件架构设计时，往往会因为缺乏深思熟虑而产生“幻觉”或逻辑断裂。
 
@@ -9519,7 +9519,7 @@ builder.add_conditional_edges("reflection", evaluate_research, ["web_research", 
 3. Yao et al. (2023) - *Tree of Thoughts: Deliberate Problem Solving with Large Language Models*
 4. *Inference Scaling Laws: An Empirical Analysis*, 2024
 5. *Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies*, 2025
-6. Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"18分钟",views:1243,html:`<h1>深度推理：从“快速响应”到“深度思考”的智能体革命</h1>
+6. Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"18分钟",views:4760,html:`<h1>深度推理：从“快速响应”到“深度思考”的智能体革命</h1>
 <p>在人工智能的早期，我们往往追求模型的“响应速度”：你输入指令，模型瞬间吐出答案。这种“快思考”（系统 1）对于日常聊天绰绰有余，但在处理复杂的财务审计、法律分析、数学证明或软件架构设计时，往往会因为缺乏深思熟虑而产生“幻觉”或逻辑断裂。</p>
 <p><strong>真正的智能体（Agent）不应该只是一个复读机，而应该学会“思考”。</strong></p>
 <p>本篇深度长文将带你进入智能体的核心地带——<strong>推理技术（Reasoning Techniques）</strong>。我们将解析如何通过结构化的思维方法、资源换智能的扩展定律以及多智能体协作架构，让 AI 从一个“概率预测器”进化为具备逻辑严密性的“自主问题解决者”。</p>
@@ -9785,7 +9785,7 @@ builder.add_conditional_edges(&quot;reflection&quot;, evaluate_research, [&quot;
 <li><em>Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies</em>, 2025</li>
 <li>Antonio Gulli 《Agentic Design Patterns》</li>
 </ol>
-`},{id:17697916596469822e-4,title:"[AI智能体] - 提示链",description:`​
+`},{id:1769792702573,title:"[AI智能体] - 提示链",description:`​
 在人工智能飞速发展的今天，大型语言模型（LLMs）以其强大的文本生成和理解能力，正在重塑我们与数字世界的交互方式。然而，当面对真正复杂、多步骤的任务时，仅仅依靠一个“万能”的单一提示，往往会让我们感到力不从心。这时，一种名为“提示链式模式”（Prompt Chaining Pattern）的强大范式应运而生，它如同巧妙的指挥家，将复杂任务分解为一系列有序、可控的步骤，从而解锁了LLMs处理复杂...`,content:`​
 在人工智能飞速发展的今天，大型语言模型（LLMs）以其强大的文本生成和理解能力，正在重塑我们与数字世界的交互方式。然而，当面对真正复杂、多步骤的任务时，仅仅依靠一个“万能”的单一提示，往往会让我们感到力不从心。这时，一种名为“提示链式模式”（Prompt Chaining Pattern）的强大范式应运而生，它如同巧妙的指挥家，将复杂任务分解为一系列有序、可控的步骤，从而解锁了LLMs处理复杂问题的潜力。
 
@@ -10023,7 +10023,7 @@ print("\\n")
 
 5. Antonio Gulli 《Agentic Design Patterns》
 
-​`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"11分钟",views:843,html:`<p>​
+​`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"11分钟",views:3831,html:`<p>​
 在人工智能飞速发展的今天，大型语言模型（LLMs）以其强大的文本生成和理解能力，正在重塑我们与数字世界的交互方式。然而，当面对真正复杂、多步骤的任务时，仅仅依靠一个“万能”的单一提示，往往会让我们感到力不从心。这时，一种名为“提示链式模式”（Prompt Chaining Pattern）的强大范式应运而生，它如同巧妙的指挥家，将复杂任务分解为一系列有序、可控的步骤，从而解锁了LLMs处理复杂问题的潜力。</p>
 <p>一、复杂任务的“阿喀琉斯之踵”：单一提示的局限性
 想象一下，你要求一位大厨同时完成从采购食材、烹饪十道菜、摆盘到服务客人的所有工作，并且只给他一张写满指令的便签。结果可想而知：他可能遗漏食材，烹饪流程混乱，甚至端出不合时宜的菜肴。这正是单一提示在处理LLMs复杂任务时面临的困境。</p>
@@ -10152,7 +10152,7 @@ print(&quot;\\n&quot;)
 </li>
 </ol>
 <p>​</p>
-`},{id:176979165964728e-2,title:"[AI智能体] - 模型上下文协议",description:`📖 引言：从“孤岛”到“互联”
+`},{id:1769792702237,title:"[AI智能体] - 模型上下文协议",description:`📖 引言：从“孤岛”到“互联”
 
 在 AI 智能体（AI Agents）爆发的前夜，我们面临着一个巨大的互操作性危机。
 
@@ -10606,7 +10606,7 @@ async def consult_legal_department(query: str) -> str:
 4.MCP Toolbox for Databases Documentation. (Latest). MCP Toolbox for Databases. https://google.github.io/adk-docs/mcp/databases/
 
 
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"25分钟",views:2188,html:`<h2>📖 引言：从“孤岛”到“互联”</h2>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"25分钟",views:2174,html:`<h2>📖 引言：从“孤岛”到“互联”</h2>
 <p>在 AI 智能体（AI Agents）爆发的前夜，我们面临着一个巨大的<strong>互操作性危机</strong>。</p>
 <p>每一家公司、每一个开发者都在构建自己的智能体。有的智能体能查天气，有的能写代码，有的能操作数据库。但问题是，这些智能体就像一个个孤岛，彼此之间无法沟通，也无法复用。如果你想让一个 ChatGPT 智能体去访问你的 Google Drive，你需要写一套专用的插件；如果你想让 Claude 智能体做同样的事，你又得写另一套。</p>
 <p>为了连接 N 个模型和 M 个数据源，我们需要维护 $N \\times M$ 个集成接口。这是一场工程噩梦。</p>
@@ -11028,7 +11028,7 @@ async def consult_legal_department(query: str) -&gt; str:
 2.FastMCP Documentation. FastMCP. <a href="https://github.com/jlowin/fastmcp">https://github.com/jlowin/fastmcp</a>
 3.MCP Tools for Genmedia Services. MCP Tools for Genmedia Services. <a href="https://google.github.io/adk-docs/mcp/#mcp-servers-for-google-cloud-genmedia">https://google.github.io/adk-docs/mcp/#mcp-servers-for-google-cloud-genmedia</a>
 4.MCP Toolbox for Databases Documentation. (Latest). MCP Toolbox for Databases. <a href="https://google.github.io/adk-docs/mcp/databases/">https://google.github.io/adk-docs/mcp/databases/</a></p>
-`},{id:17697916596496743e-4,title:"[AI智能体] - 目标设定与监控模式",description:`📖 引言：从“执行者”到“统筹师”
+`},{id:1769792702332,title:"[AI智能体] - 目标设定与监控模式",description:`📖 引言：从“执行者”到“统筹师”
 
 在之前的章节中，我们赋予了 AI 智能体使用工具（Tool Use）、访问上下文（MCP）和学习适应（Learning/Adaptation）的能力。然而，一个拥有强大工具库的智能体，如果缺乏明确的方向和自我评估机制，仍然只是一个高效的“执行者”，而不是一个真正的“统筹师”。
 
@@ -11465,7 +11465,7 @@ if __name__ == "__main__":
 ## 参考资料
 1.SMART Goals Framework. https://en.wikipedia.org/wiki/SMART_criteria
 2.Antonio Gulli 《Agentic Design Patterns》
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"23分钟",views:221,html:`<h2>📖 引言：从“执行者”到“统筹师”</h2>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"23分钟",views:2104,html:`<h2>📖 引言：从“执行者”到“统筹师”</h2>
 <p>在之前的章节中，我们赋予了 AI 智能体使用工具（Tool Use）、访问上下文（MCP）和学习适应（Learning/Adaptation）的能力。然而，一个拥有强大工具库的智能体，如果缺乏明确的方向和自我评估机制，仍然只是一个高效的“执行者”，而不是一个真正的“统筹师”。</p>
 <p><strong>第十一篇：“目标设定与监控”模式</strong> 是将 AI 智能体从<strong>反应式系统（Reactive Systems）</strong> 提升到 <strong>主动式系统（Proactive Systems）</strong> 的关键。该模式要求智能体不仅要知道“怎么做”（How to do），更要清楚地知道“为什么做”（Why to do）和“做到什么程度算成功”（What is success）。</p>
 <p>本篇将深入解析该模式的架构、原理，并结合 <strong>LangGraph</strong> 和 <strong>Pydantic</strong> 等现代技术框架，重构一个更健壮、更具生产价值的<strong>多智能体代码优化系统</strong>，以实现真正可靠的自我监控。</p>
@@ -11931,7 +11931,7 @@ if __name__ == &quot;__main__&quot;:
 <h2>参考资料</h2>
 <p>1.SMART Goals Framework. <a href="https://en.wikipedia.org/wiki/SMART_criteria">https://en.wikipedia.org/wiki/SMART_criteria</a>
 2.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596521501e-4,title:"[AI智能体] - 规划模式",description:`在我们的AI智能体设计之旅中，我们已经赋予了AI系统卓越的底层能力：信息流的线性处理（提示链）、条件性决策（路由）、高效的多任务并发（并行），以及至关重要的自我修正机制（反思）。
+`},{id:1769792701994,title:"[AI智能体] - 规划模式",description:`在我们的AI智能体设计之旅中，我们已经赋予了AI系统卓越的底层能力：信息流的线性处理（提示链）、条件性决策（路由）、高效的多任务并发（并行），以及至关重要的自我修正机制（反思）。
 
 但即使拥有了这些能力，我们的智能体仍然像一位经验丰富的战术家，专注于眼前的每一个回合，而非整个战役的策略。它擅长对输入做出高效、正确的响应，却缺乏前瞻性——在复杂、多步骤的任务中，制定并执行一条从起点到终点的连贯战略...`,content:`
 在我们的AI智能体设计之旅中，我们已经赋予了AI系统卓越的底层能力：信息流的线性处理（**提示链**）、条件性决策（**路由**）、高效的多任务并发（**并行**），以及至关重要的自我修正机制（**反思**）。
@@ -12442,7 +12442,7 @@ except Exception as e:
 3.Perplexity, Introducing Perplexity Deep Research: https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research
 4.Antonio Gulli 《Agentic Design Patterns》
 
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"36分钟",views:3226,html:`<p>在我们的AI智能体设计之旅中，我们已经赋予了AI系统卓越的底层能力：信息流的线性处理（<strong>提示链</strong>）、条件性决策（<strong>路由</strong>）、高效的多任务并发（<strong>并行</strong>），以及至关重要的自我修正机制（<strong>反思</strong>）。</p>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"36分钟",views:1951,html:`<p>在我们的AI智能体设计之旅中，我们已经赋予了AI系统卓越的底层能力：信息流的线性处理（<strong>提示链</strong>）、条件性决策（<strong>路由</strong>）、高效的多任务并发（<strong>并行</strong>），以及至关重要的自我修正机制（<strong>反思</strong>）。</p>
 <p>但即使拥有了这些能力，我们的智能体仍然像一位经验丰富的战术家，专注于眼前的每一个回合，而非整个战役的策略。它擅长对输入做出高效、正确的响应，却缺乏<strong>前瞻性</strong>——在复杂、多步骤的任务中，制定并执行一条从起点到终点的连贯战略。</p>
 <p>这正是本文的核心：<strong>规划模式（Planning Pattern）</strong>。</p>
 <p>规划模式是智能体从一个高级别的“响应者”飞跃成为“战略家”的基础。它赋予了智能体把一个宏大、模糊的目标（例如：“启动新的营销活动”）拆解为一系列逻辑清晰、相互依赖的、可执行的步骤（例如：1. 预算审批 $\\rightarrow$ 2. 素材设计 $\\rightarrow$ 3. 渠道部署 $\\rightarrow$ 4. 效果监测）的能力。</p>
@@ -13306,7 +13306,7 @@ except Exception as e:
 2.OpenAI, Introducing deep research: <a href="https://openai.com/index/introducing-deep-research/">https://openai.com/index/introducing-deep-research/</a>
 3.Perplexity, Introducing Perplexity Deep Research: <a href="https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research">https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research</a>
 4.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:176979165965866e-2,title:"[AI智能体] - 记忆管理",description:`📖 引言：拒绝做“金鱼”智能体
+`},{id:1769792702143,title:"[AI智能体] - 记忆管理",description:`📖 引言：拒绝做“金鱼”智能体
 
 想象一下，你雇佣了一位私人助理。你们聊了半小时，商定了下周去巴黎的行程，确认了你对花生过敏，还讨论了你喜欢的酒店风格。然而，当你第二天问他：“帮我订酒店了吗？”时，他一脸茫然地看着你：“您好，我是您的助理。请问有什么可以帮您？”
 
@@ -13763,7 +13763,7 @@ def update_instructions(state, store):
 2.LangGraph Memory: https://langchain-ai.github.io/langgraph/concepts/memory/
 3.Vertex AI Agent Engine Memory Bank: https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview=
 4.Antonio Gulli 《Agentic Design Patterns》
-`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"24分钟",views:4104,html:`<h2>📖 引言：拒绝做“金鱼”智能体</h2>
+`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"24分钟",views:2396,html:`<h2>📖 引言：拒绝做“金鱼”智能体</h2>
 <p>想象一下，你雇佣了一位私人助理。你们聊了半小时，商定了下周去巴黎的行程，确认了你对花生过敏，还讨论了你喜欢的酒店风格。然而，当你第二天问他：“帮我订酒店了吗？”时，他一脸茫然地看着你：“您好，我是您的助理。请问有什么可以帮您？”</p>
 <p>这就是没有 <strong>记忆管理（Memory Management）</strong> 的 AI 智能体。</p>
 <p>在大语言模型（LLM）的原生状态下，它们是“无状态”的。每一次 API 调用都是全新的开始，就像只有 7 秒记忆的金鱼。为了让智能体从简单的“问答机器”进化为真正的“智能伙伴”，我们需要赋予它们记忆——保留过往交互、追踪任务状态、积累长期知识的能力。</p>
@@ -14203,7 +14203,7 @@ def update_instructions(state, store):
 2.LangGraph Memory: <a href="https://langchain-ai.github.io/langgraph/concepts/memory/">https://langchain-ai.github.io/langgraph/concepts/memory/</a>
 3.Vertex AI Agent Engine Memory Bank: <a href="https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview=">https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview=</a>
 4.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596618213e-4,title:"[AI智能体] - 资源感知优化模式",description:`智效合一：深度解析 AI 智能体中的“资源感知优化”架构模式
+`},{id:1769792702114,title:"[AI智能体] - 资源感知优化模式",description:`智效合一：深度解析 AI 智能体中的“资源感知优化”架构模式
 
 在 AI 领域，我们正从“模型竞赛”转向“应用落地”。然而，当开发者试图将复杂的 Agent（智能体）推向生产环境时，往往会撞上一堵墙：成本（Financial Cost） 与 性能（Performance） 的不可调和。
 
@@ -14425,7 +14425,7 @@ AI 的成本与上下文长度（Token 数）呈非线性增长。
 4.<mark>Google 智能体开发工具包（ADK）：google.github.io/adk-docs</mark>
 5.<mark>Gemini Flash 2.5 和 Gemini 2.5 Pro：aistudio.google.com</mark>
 6.<mark>OpenRouter：openrouter.ai/docs/quickstart</mark>
-7.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"10分钟",views:2949,html:`<h1>智效合一：深度解析 AI 智能体中的“资源感知优化”架构模式</h1>
+7.Antonio Gulli 《Agentic Design Patterns》`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"10分钟",views:3863,html:`<h1>智效合一：深度解析 AI 智能体中的“资源感知优化”架构模式</h1>
 <p>在 AI 领域，我们正从“模型竞赛”转向“应用落地”。然而，当开发者试图将复杂的 Agent（智能体）推向生产环境时，往往会撞上一堵墙：<strong>成本（Financial Cost）</strong> 与 <strong>性能（Performance）</strong> 的不可调和。</p>
 <p>一个全能的 LLM（如 Gemini 2.5 Flash 或 Gemini 2.5 Pro）处理简单的“你好”和处理复杂的“分析 50 份研报并生成投资建议”所消耗的成本和时间是完全不同的。如果不对资源进行动态管理，企业级 AI 系统将面临两个结局：要么因成本过高而难以为继，要么因响应太慢而被用户抛弃。</p>
 <p>这就是 <strong>资源感知优化（Resource-Aware Optimization）</strong> 成为下一代 AI 系统核心逻辑的原因。本文将深入探讨这一技术架构，从设计模式到代码实现，为你揭示如何在预算范围内压榨出最强的“智能”。</p>
@@ -14606,7 +14606,7 @@ search_worker = Agent(
 5.<mark>Gemini Flash 2.5 和 Gemini 2.5 Pro：aistudio.google.com</mark>
 6.<mark>OpenRouter：openrouter.ai/docs/quickstart</mark>
 7.Antonio Gulli 《Agentic Design Patterns》</p>
-`},{id:17697916596628967e-4,title:"[AI智能体] - 路由模式",description:`​
+`},{id:1769792702509,title:"[AI智能体] - 路由模式",description:`​
 在我们的上一篇文章中，我们探讨了“提示链式模式”（Prompt Chaining），一种通过将复杂任务分解为线性、顺序步骤来提高大型语言模型（LLM）可靠性的强大技术。这种“分而治之”的策略非常适合执行确定性的工作流，就像一条高效的工厂流水线。
 
 但现实世界是混乱的，它很少遵循一条笔直的线性路径。
@@ -14921,7 +14921,7 @@ asyncio.run(main())
 
 4. Antonio Gulli 《Agentic Design Patterns》
 
-​`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"14分钟",views:2881,html:`<p>​
+​`,tags:["AI智能体","技术文章"],date:"2025-12-27",readTime:"14分钟",views:778,html:`<p>​
 在我们的上一篇文章中，我们探讨了“提示链式模式”（Prompt Chaining），一种通过将复杂任务分解为线性、顺序步骤来提高大型语言模型（LLM）可靠性的强大技术。这种“分而治之”的策略非常适合执行确定性的工作流，就像一条高效的工厂流水线。</p>
 <p>但现实世界是混乱的，它很少遵循一条笔直的线性路径。</p>
 <p>想象一下，你的“流水线”上突然来了一个完全不相关的请求。一个用户不会总是按照你设计的A — B — C的路径提问。他们可能会从A跳到D，或者提出一个你的流水线根本没有准备好处理的问题。这时，严格的提示链就会“卡壳”。</p>
@@ -15131,7 +15131,7 @@ asyncio.run(main())</p>
 </li>
 </ol>
 <p>​</p>
-`},{id:1769791659664544e-3,title:"[微服务架构设计] - 事件驱动落地方法论",description:`解构与重塑：微服务架构中的事件驱动（EDA）落地指南
+`},{id:1769792702483,title:"[微服务架构设计] - 事件驱动落地方法论",description:`解构与重塑：微服务架构中的事件驱动（EDA）落地指南
 在微服务架构的演进过程中，服务间的耦合往往是阻碍系统扩展和降低可用性的元凶。从同步调用到异步线程，再到引入消息队列（MQ）构建事件驱动架构（EDA），每一步都是对“一致性”与“可用性”的权衡。本文将从一个经典的用户注册场景切入，深入剖析服务耦合的痛点，论证事件驱动架构的必要性，并结合车贷系统的实际案例，总结出一套切实可行的 EDA 落地方法论...`,content:`# 解构与重塑：微服务架构中的事件驱动（EDA）落地指南
 在微服务架构的演进过程中，服务间的耦合往往是阻碍系统扩展和降低可用性的元凶。从同步调用到异步线程，再到引入消息队列（MQ）构建事件驱动架构（EDA），每一步都是对“一致性”与“可用性”的权衡。本文将从一个经典的用户注册场景切入，深入剖析服务耦合的痛点，论证事件驱动架构的必要性，并结合车贷系统的实际案例，总结出一套切实可行的 EDA 落地方法论。
 
@@ -15363,7 +15363,7 @@ MQ 可能会重复投递消息（例如网络抖动导致 ACK 丢失）。业务
 3.  **敬畏数据**：使用 MQ 必须处理好“消息丢失”和“重复消费”的问题，幂等性设计是 EDA 的基石。
 4.  **适度原则**：对于简单的 CRUD 或强实时一致性要求（如读取最新余额），RPC/REST 依然是最佳选择。
 
-在车贷系统中，通过合理运用 EDA，我们将核心交易链路的响应时间降低了 40%，且在多次三方服务（短信、GPS）故障中，核心放款业务实现了 **0 中断**。这正是架构设计的价值所在——在不确定的环境中构建确定的系统。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"11分钟",views:2350,html:`<h1>解构与重塑：微服务架构中的事件驱动（EDA）落地指南</h1>
+在车贷系统中，通过合理运用 EDA，我们将核心交易链路的响应时间降低了 40%，且在多次三方服务（短信、GPS）故障中，核心放款业务实现了 **0 中断**。这正是架构设计的价值所在——在不确定的环境中构建确定的系统。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"11分钟",views:2368,html:`<h1>解构与重塑：微服务架构中的事件驱动（EDA）落地指南</h1>
 <p>在微服务架构的演进过程中，服务间的耦合往往是阻碍系统扩展和降低可用性的元凶。从同步调用到异步线程，再到引入消息队列（MQ）构建事件驱动架构（EDA），每一步都是对“一致性”与“可用性”的权衡。本文将从一个经典的用户注册场景切入，深入剖析服务耦合的痛点，论证事件驱动架构的必要性，并结合车贷系统的实际案例，总结出一套切实可行的 EDA 落地方法论。</p>
 <hr>
 <h2>一、 起源：一个“简单”的用户注册引发的血案</h2>
@@ -15564,7 +15564,7 @@ void onMessage(LoanDisbursedEvent event) {
 <li><strong>适度原则</strong>：对于简单的 CRUD 或强实时一致性要求（如读取最新余额），RPC/REST 依然是最佳选择。</li>
 </ol>
 <p>在车贷系统中，通过合理运用 EDA，我们将核心交易链路的响应时间降低了 40%，且在多次三方服务（短信、GPS）故障中，核心放款业务实现了 <strong>0 中断</strong>。这正是架构设计的价值所在——在不确定的环境中构建确定的系统。</p>
-`},{id:17697916596660867e-4,title:"[微服务架构设计] - 分布式事务使用方法论",description:`架构师的抉择：从 ACID 到 CAP/BASE，深谈分布式事务选型方法论
+`},{id:1769792702676,title:"[微服务架构设计] - 分布式事务使用方法论",description:`架构师的抉择：从 ACID 到 CAP/BASE，深谈分布式事务选型方法论
 
  引言
 
@@ -15701,7 +15701,7 @@ ACID 是传统数据库（如 MySQL, PostgreSQL）的核心，追求**强一致�
 4. **构建兜底能力**：**无论选哪种方案，没有对账和报警的分布式事务都是在裸奔。**
 
 ---
-`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"6分钟",views:4110,html:`<h1>架构师的抉择：从 ACID 到 CAP/BASE，深谈分布式事务选型方法论</h1>
+`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"6分钟",views:519,html:`<h1>架构师的抉择：从 ACID 到 CAP/BASE，深谈分布式事务选型方法论</h1>
 <h2>引言</h2>
 <p>在单体架构向微服务演进的过程中，事务的治理是跨越“逻辑边界”与“物理边界”的核心挑战。我们不仅要理解关系型数据库的 <strong>ACID</strong>，更要掌握分布式环境下的 <strong>CAP</strong> 定律与 <strong>BASE</strong> 理论。本文将通过理论深度拆解，结合<strong>车贷系统</strong>实战，揭示如何利用“可靠消息+实时报警+多重兜底”构建高性能的分布式事务架构。</p>
 <hr>
@@ -15862,7 +15862,7 @@ ACID 是传统数据库（如 MySQL, PostgreSQL）的核心，追求**强一致�
 <li><strong>构建兜底能力</strong>：<strong>无论选哪种方案，没有对账和报警的分布式事务都是在裸奔。</strong></li>
 </ol>
 <hr>
-`},{id:176979165966831e-2,title:"[微服务架构设计] - 分布式锁使用方法论",description:`深度解析：分布式锁实战方法论——以车贷系统为例
+`},{id:1769792702116,title:"[微服务架构设计] - 分布式锁使用方法论",description:`深度解析：分布式锁实战方法论——以车贷系统为例
 
 在构建高并发、高可用的分布式车贷系统时，数据的一致性是我们面临的最大挑战之一。从用户发起贷款申请、风控审核、到最终的放款扣额，每一个环节都可能因为并发操作而导致数据错乱。
 
@@ -15976,7 +15976,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 * 对于削峰填谷，请优先用**MQ 分片**。
 * 对于必须强一致的多资源操作，请谨慎使用**分布式锁**，并务必配置好**超时释放**和**心跳续约**机制。
 
-只有明确锁的粒度、范围和容错机制，我们才能在保证资金安全的前提下，通过技术手段提升系统的吞吐能力。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"8分钟",views:1639,html:`<h1>深度解析：分布式锁实战方法论——以车贷系统为例</h1>
+只有明确锁的粒度、范围和容错机制，我们才能在保证资金安全的前提下，通过技术手段提升系统的吞吐能力。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"8分钟",views:2100,html:`<h1>深度解析：分布式锁实战方法论——以车贷系统为例</h1>
 <p>在构建高并发、高可用的分布式车贷系统时，数据的一致性是我们面临的最大挑战之一。从用户发起贷款申请、风控审核、到最终的放款扣额，每一个环节都可能因为并发操作而导致数据错乱。</p>
 <p>虽然 JVM 内部提供了从偏向锁到重量级锁的多种优化机制，以及基于 CAS 的乐观锁实现，但在微服务架构下，单纯依靠单机锁（如 <code>synchronized</code>）已无法解决跨节点的资源竞争问题。本文将结合车贷业务场景，探讨分布式锁的替代方案、核心设计方法论及主流实现选择。</p>
 <h2>一、 并发下的“资金事故”</h2>
@@ -16089,7 +16089,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 <li>对于必须强一致的多资源操作，请谨慎使用<strong>分布式锁</strong>，并务必配置好<strong>超时释放</strong>和<strong>心跳续约</strong>机制。</li>
 </ul>
 <p>只有明确锁的粒度、范围和容错机制，我们才能在保证资金安全的前提下，通过技术手段提升系统的吞吐能力。</p>
-`},{id:17697916596684634e-4,title:"[微服务架构设计] - 协议选择",description:`车贷微服务系统中的 Hybrid 协议策略（Dubbo + HTTP）
+`},{id:1769792702224,title:"[微服务架构设计] - 协议选择",description:`车贷微服务系统中的 Hybrid 协议策略（Dubbo + HTTP）
 微服务协议的选择，是架构师在平衡系统效率、运维成本与业务灵活性之间作出的关键决策。本文围绕车贷金融核心系统的实际开发场景，详细阐述了我们在微服务改造中，如何运用五大实用方法论，最终敲定内网使用高性能 Dubbo RPC，对外暴露使用通用 HTTP/REST 的混合（Hybrid）协议策略。
 
 ---
@@ -16195,7 +16195,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 
 架构设计是一门权衡的艺术。在车贷系统的微服务改造中，我们没有盲目追求最新的技术，而是通过 **“内/外网分离”、“稳定性与契约匹配”** 等实用方法论，理性地选择了最适合当前业务和团队能力的协议组合。
 
-最终的 **Dubbo + HTTP 混合架构**，不仅为系统的高并发运行奠定了坚实的基础，也为未来的技术升级和业务扩张保留了充分的灵活性。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"7分钟",views:1725,html:`<h1>车贷微服务系统中的 Hybrid 协议策略（Dubbo + HTTP）</h1>
+最终的 **Dubbo + HTTP 混合架构**，不仅为系统的高并发运行奠定了坚实的基础，也为未来的技术升级和业务扩张保留了充分的灵活性。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"7分钟",views:4681,html:`<h1>车贷微服务系统中的 Hybrid 协议策略（Dubbo + HTTP）</h1>
 <p>微服务协议的选择，是架构师在平衡<strong>系统效率、运维成本与业务灵活性</strong>之间作出的关键决策。本文围绕车贷金融核心系统的实际开发场景，详细阐述了我们在微服务改造中，如何运用五大实用方法论，最终敲定<strong>内网使用高性能 Dubbo RPC，对外暴露使用通用 HTTP/REST</strong> 的混合（Hybrid）协议策略。</p>
 <hr>
 <h2>第一部分：从架构危机到协议选型的必要性</h2>
@@ -16317,7 +16317,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 <h2>第五部分：总结与展望</h2>
 <p>架构设计是一门权衡的艺术。在车贷系统的微服务改造中，我们没有盲目追求最新的技术，而是通过 <strong>“内/外网分离”、“稳定性与契约匹配”</strong> 等实用方法论，理性地选择了最适合当前业务和团队能力的协议组合。</p>
 <p>最终的 <strong>Dubbo + HTTP 混合架构</strong>，不仅为系统的高并发运行奠定了坚实的基础，也为未来的技术升级和业务扩张保留了充分的灵活性。</p>
-`},{id:1769791659669264e-3,title:"[微服务架构设计] - 单体架构",description:`从单体到服务化：一个车贷系统架构的演进复盘
+`},{id:1769792702128,title:"[微服务架构设计] - 单体架构",description:`从单体到服务化：一个车贷系统架构的演进复盘
 
 在互联网金融产品的生命周期中，"唯快不破"往往是初期的核心法则。对于我们的车贷系统而言，初版（MVP）的使命非常明确：业务试错与市场占位。然而，随着业务规模的指数级增长，初期的"捷径"逐渐变成了"技术负债"。
 
@@ -16417,7 +16417,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 ---
 
 ### 下一篇
-**微服务如何划分**： 如何依据业务域、技术和团队能力完成微服务的划分？`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"5分钟",views:4748,html:`<h1>从单体到服务化：一个车贷系统架构的演进复盘</h1>
+**微服务如何划分**： 如何依据业务域、技术和团队能力完成微服务的划分？`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"5分钟",views:1258,html:`<h1>从单体到服务化：一个车贷系统架构的演进复盘</h1>
 <p>在互联网金融产品的生命周期中，&quot;唯快不破&quot;往往是初期的核心法则。对于我们的车贷系统而言，初版（MVP）的使命非常明确：<strong>业务试错与市场占位</strong>。然而，随着业务规模的指数级增长，初期的&quot;捷径&quot;逐渐变成了&quot;技术负债&quot;。</p>
 <p>本文将复盘我们如何从一个简单的单体架构出发，面对亿级业务目标的挑战，以及在架构转型决策背后，技术团队与管理层如何达成共识。</p>
 <h2>一、 1.0 时代：为了“快”而生的单体架构</h2>
@@ -16520,7 +16520,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 <hr>
 <h3>下一篇</h3>
 <p><strong>微服务如何划分</strong>： 如何依据业务域、技术和团队能力完成微服务的划分？</p>
-`},{id:17697916596700525e-4,title:"[微服务架构设计] - 可降级设计",description:`引言
+`},{id:1769792702029,title:"[微服务架构设计] - 可降级设计",description:`引言
 
 在金融科技领域，系统的稳定性和连续性是企业的生命线。面对突发故障或流量洪峰，简单粗暴的“挂维护页”或“整体下线”策略不仅造成巨大的业务损失，更可能因引发用户恐慌和资金流动性问题而威胁企业生存。真正的鲁棒性，在于将技术熔断与业务决策深度融合，构建一套可控、分级、优雅的降级设计（Degradable Design）。本文将基于车贷系统等复杂微服务场景，深入解析降级设计的必要性、方法论，以及技...`,content:`## 引言
 
@@ -16643,7 +16643,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 * **业务（Biz）**：明确核心业务板块和资金流动性要求，定义“什么是不能停的”。
 * **产品（Product）**：基于业务优先级，设计合理的降级形态（用户界面的友好提示、功能缩减的范围）。
 
-只有技术、业务、产品三者协同合作，共同完成降级地图的绘制和预案的演练，才能在危机来临时，有效地保障系统的稳定性和企业的生命线。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"7分钟",views:4865,html:`<h2>引言</h2>
+只有技术、业务、产品三者协同合作，共同完成降级地图的绘制和预案的演练，才能在危机来临时，有效地保障系统的稳定性和企业的生命线。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"7分钟",views:4280,html:`<h2>引言</h2>
 <p>在金融科技领域，系统的稳定性和连续性是企业的生命线。面对突发故障或流量洪峰，简单粗暴的“挂维护页”或“整体下线”策略不仅造成巨大的业务损失，更可能因引发用户恐慌和资金流动性问题而威胁企业生存。真正的鲁棒性，在于将技术熔断与业务决策深度融合，构建一套<strong>可控、分级、优雅的降级设计（Degradable Design）</strong>。本文将基于车贷系统等复杂微服务场景，深入解析降级设计的必要性、方法论，以及技术、业务、产品三方的协同机制。</p>
 <hr>
 <h2>第一部分：从“死机”到“伤退”——可降级设计的意义</h2>
@@ -16811,7 +16811,7 @@ if (db.account.updateBalance(id, -amount, currentVersion) == 0) {
 <li><strong>产品（Product）</strong>：基于业务优先级，设计合理的降级形态（用户界面的友好提示、功能缩减的范围）。</li>
 </ul>
 <p>只有技术、业务、产品三者协同合作，共同完成降级地图的绘制和预案的演练，才能在危机来临时，有效地保障系统的稳定性和企业的生命线。</p>
-`},{id:17697916596712427e-4,title:"[微服务架构设计] - 唯一ID设计",description:`引言
+`},{id:1769792701801,title:"[微服务架构设计] - 唯一ID设计",description:`引言
 
 在分布式系统中，ID（Identification）不仅是一个对象的身份标识，更是串联业务流转、保障幂等性、支撑数据分片的核心基石。从简单的数据库自增到复杂的分布式算法，ID 生成策略的演进折射出互联网架构从单体向微服务演进的过程。本文将深度解析主流 ID 生成方案，并结合实际开发场景，为您提供一套架构师级别的选型方法论。
 
@@ -17178,7 +17178,7 @@ public class LeafIdService {
 4. **业务透明化**：封装为通用的 ID 生成微服务（如美团 Leaf），支持动态扩容和多业务线隔离，解决“好不好用”的问题。
 
 ---
-`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"19分钟",views:2720,html:`<h2>引言</h2>
+`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"19分钟",views:1996,html:`<h2>引言</h2>
 <p>在分布式系统中，ID（Identification）不仅是一个对象的身份标识，更是串联业务流转、保障幂等性、支撑数据分片的核心基石。从简单的数据库自增到复杂的分布式算法，ID 生成策略的演进折射出互联网架构从单体向微服务演进的过程。本文将深度解析主流 ID 生成方案，并结合实际开发场景，为您提供一套架构师级别的选型方法论。</p>
 <hr>
 <h2>一、 为什么 ID 策略是分布式系统的“头等大事”？</h2>
@@ -17534,7 +17534,7 @@ public class LeafIdService {
 <li><strong>业务透明化</strong>：封装为通用的 ID 生成微服务（如美团 Leaf），支持动态扩容和多业务线隔离，解决“好不好用”的问题。</li>
 </ol>
 <hr>
-`},{id:1769791659673116e-3,title:"[微服务架构设计] - 封底估算",description:`在系统设计面试或实际架构规划中，面对“设计一个推特X”这样模糊的需求，如何快速推导出技术指标？答案是封底估算。本文将基于 Google 高级研究员 Jeff Dean 的理念，拆解估算所需的三大基础数据，提出标准化的四步估算方法论，并通过一个完整的 X 案例（包含被常人忽略的读写比计算），展示如何从简单的业务假设推导出 CDN、缓存和对象存储的架构决策。
+`},{id:1769792701716,title:"[微服务架构设计] - 封底估算",description:`在系统设计面试或实际架构规划中，面对“设计一个推特X”这样模糊的需求，如何快速推导出技术指标？答案是封底估算。本文将基于 Google 高级研究员 Jeff Dean 的理念，拆解估算所需的三大基础数据，提出标准化的四步估算方法论，并通过一个完整的 X 案例（包含被常人忽略的读写比计算），展示如何从简单的业务假设推导出 CDN、缓存和对象存储的架构决策。
 
 ---
 
@@ -17696,7 +17696,7 @@ Jeff Dean 分享的经典数据揭示了计算机不同组件的速度差异。�
 2.  **存储**：55 PB 总量 $\\rightarrow$ **分布式对象存储 + 冷热归档**。
 3.  **带宽**：560 Gbps 出口 $\\rightarrow$ **强制上 CDN**。
 
-封底估算的能力，是区分“代码工匠”与“系统架构师”的分水岭。它帮助我们在写下一行代码之前，就对系统的规模、瓶颈和成本有了全局的掌控。**先算后做，心中有数。**`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"8分钟",views:202,html:`<p>在系统设计面试或实际架构规划中，面对“设计一个推特X”这样模糊的需求，如何快速推导出技术指标？答案是<strong>封底估算</strong>。本文将基于 Google 高级研究员 Jeff Dean 的理念，拆解估算所需的三大基础数据，提出标准化的四步估算方法论，并通过一个完整的 X 案例（包含被常人忽略的读写比计算），展示如何从简单的业务假设推导出 CDN、缓存和对象存储的架构决策。</p>
+封底估算的能力，是区分“代码工匠”与“系统架构师”的分水岭。它帮助我们在写下一行代码之前，就对系统的规模、瓶颈和成本有了全局的掌控。**先算后做，心中有数。**`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"8分钟",views:1173,html:`<p>在系统设计面试或实际架构规划中，面对“设计一个推特X”这样模糊的需求，如何快速推导出技术指标？答案是<strong>封底估算</strong>。本文将基于 Google 高级研究员 Jeff Dean 的理念，拆解估算所需的三大基础数据，提出标准化的四步估算方法论，并通过一个完整的 X 案例（包含被常人忽略的读写比计算），展示如何从简单的业务假设推导出 CDN、缓存和对象存储的架构决策。</p>
 <hr>
 <h2>一、 为什么我们需要封底估算？</h2>
 <p>封底估算（Back-of-the-Envelope Estimation）是指通过简单的数学计算和常识性的假设，在设计初期对系统的容量、性能和资源需求进行大致评估的过程。</p>
@@ -17890,7 +17890,7 @@ Jeff Dean 分享的经典数据揭示了计算机不同组件的速度差异。�
 <li><strong>带宽</strong>：560 Gbps 出口 $\\rightarrow$ <strong>强制上 CDN</strong>。</li>
 </ol>
 <p>封底估算的能力，是区分“代码工匠”与“系统架构师”的分水岭。它帮助我们在写下一行代码之前，就对系统的规模、瓶颈和成本有了全局的掌控。<strong>先算后做，心中有数。</strong></p>
-`},{id:17697916596741958e-4,title:"[微服务架构设计] - 幂等设计",description:`引言：分布式环境下的“信任危机”
+`},{id:1769792701815,title:"[微服务架构设计] - 幂等设计",description:`引言：分布式环境下的“信任危机”
 
 在单机时代，我们习惯于“调用即所得”。但在微服务架构中，网络波动、超时重试、消息重复投递就像幽灵一样无处不在。想象一下：在车贷系统中，用户点击了一次“确认放款”，却因为网络瞬时抖动，后端接收到了两次请求。如果没有幂等处理，系统可能会向银行发送两次放款指令。
 
@@ -18295,7 +18295,7 @@ Spring Boot 默认的 \`RedisTemplate\` 使用 JDK 序列化，生成的 Key 会
 
 **永远记住：在分布式世界里，你不能指望网络是通的，但你必须保证账是对的。**
 
----`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"19分钟",views:2170,html:`<h2>引言：分布式环境下的“信任危机”</h2>
+---`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"19分钟",views:102,html:`<h2>引言：分布式环境下的“信任危机”</h2>
 <p>在单机时代，我们习惯于“调用即所得”。但在微服务架构中，网络波动、超时重试、消息重复投递就像幽灵一样无处不在。想象一下：在车贷系统中，用户点击了一次“确认放款”，却因为网络瞬时抖动，后端接收到了两次请求。如果没有幂等处理，系统可能会向银行发送两次放款指令。</p>
 <p><strong>这不仅是技术故障，更是金融资产的巨大损失。</strong></p>
 <p>幂等（Idempotent）一词源于数学，指多次操作对资源的影响表现一致。在程序世界里，幂等是我们对抗“通信链路不信任”的终极武器。本文将结合车贷系统的实战场景，深度剖析幂等机制的设计方法论。</p>
@@ -18616,7 +18616,7 @@ public class GlobalExceptionHandler {
 <p>幂等性设计是分布式系统的“防弹衣”。它虽然增加了系统实现的复杂度，但它为业务系统在多变的互联网环境下提供了<strong>确定性</strong>。在处理像车贷放款这样高风险的业务时，我们情愿让代码变得复杂一点，也绝不能让资产处于风险之中。</p>
 <p><strong>永远记住：在分布式世界里，你不能指望网络是通的，但你必须保证账是对的。</strong></p>
 <hr>
-`},{id:17697916596759324e-4,title:"[微服务架构设计] - 服务治理和发现",description:`引言
+`},{id:1769792702162,title:"[微服务架构设计] - 服务治理和发现",description:`引言
 
 在微服务架构中，当我们把单体巨石拆解为几十甚至上百个微服务后，面临的首要问题就是：这些服务去哪了？我该怎么找到它们？
 
@@ -18983,7 +18983,7 @@ tags:
 服务注册与调用，看似是后台不起眼的基础设施，实则是微服务架构的**灵魂**。
 
 从 Nginx 的中心化调度，到 Dubbo 的客户端智能负载，技术的演进始终围绕着**效率、稳定与灵活性**展开。在车贷系统的实践中，我们没有盲目追求最新的 Service Mesh，而是选择了最适合团队技术栈且经过金融级验证的 **Dubbo + Zookeeper** 方案，并巧妙利用其路由特性解决了业务痛点。
-`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"19分钟",views:2131,html:`<h2>引言</h2>
+`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"19分钟",views:1872,html:`<h2>引言</h2>
 <p>在微服务架构中，当我们把单体巨石拆解为几十甚至上百个微服务后，面临的首要问题就是：<strong>这些服务去哪了？我该怎么找到它们？</strong></p>
 <p>这就引入了微服务治理的核心——<strong>服务注册与发现</strong>。它是微服务的“户籍管理中心”和“导航系统”。本文将从最原始的反向代理方案开始，梳理服务注册与调用的三种核心模式演进，总结出一套实用的选型方法论。最后，我们将回到车贷系统的实战场景，详细解析为何最终选择 <strong>Dubbo + Zookeeper</strong> 组合，以及如何应对金融场景下的特殊路由需求（如灰度发布与反欺诈分流）。</p>
 <hr>
@@ -19355,7 +19355,7 @@ tags:
 <h2>五、 结语</h2>
 <p>服务注册与调用，看似是后台不起眼的基础设施，实则是微服务架构的<strong>灵魂</strong>。</p>
 <p>从 Nginx 的中心化调度，到 Dubbo 的客户端智能负载，技术的演进始终围绕着<strong>效率、稳定与灵活性</strong>展开。在车贷系统的实践中，我们没有盲目追求最新的 Service Mesh，而是选择了最适合团队技术栈且经过金融级验证的 <strong>Dubbo + Zookeeper</strong> 方案，并巧妙利用其路由特性解决了业务痛点。</p>
-`},{id:1769791659678661e-3,title:"[微服务架构设计] - 流程协同设计",description:`一、 核心概念解析：指挥家与舞者
+`},{id:1769792701825,title:"[微服务架构设计] - 流程协同设计",description:`一、 核心概念解析：指挥家与舞者
 
 在定义微服务间的交互模式时，我们通常面临两种选择：中心化控制还是去中心化协作？
 
@@ -19478,7 +19478,7 @@ tags:
 未来的架构演进中，随着 Service Mesh（服务网格）技术的成熟，部分协同逻辑（如熔断、限流、路由）将下沉到基础设施层，这将进一步降低服务协同的复杂度，让业务开发更加聚焦于价值本身。
 
 ---
-`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"7分钟",views:2942,html:`<h2>一、 核心概念解析：指挥家与舞者</h2>
+`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"7分钟",views:3379,html:`<h2>一、 核心概念解析：指挥家与舞者</h2>
 <p>在定义微服务间的交互模式时，我们通常面临两种选择：中心化控制还是去中心化协作？</p>
 <h3>1. 服务编制（Service Orchestration）：中心化的指挥家</h3>
 <p><strong>定义</strong>：引入一个中心化的控制器（通常是一个流程引擎、聚合服务或网关），由它来定义业务逻辑的执行顺序、条件判断和数据流转。服务本身是“哑”的，不知道业务全貌，只负责执行命令。</p>
@@ -19603,7 +19603,7 @@ tags:
 <p>我们认识到，<strong>Service Orchestration（编制）</strong> 提供了清晰的视野和控制力，是核心交易链路的定海神针；而 <strong>Service Choreography（协同）</strong> 提供了极致的解耦和扩展性，是生态繁荣的催化剂。</p>
 <p>未来的架构演进中，随着 Service Mesh（服务网格）技术的成熟，部分协同逻辑（如熔断、限流、路由）将下沉到基础设施层，这将进一步降低服务协同的复杂度，让业务开发更加聚焦于价值本身。</p>
 <hr>
-`},{id:17697916596794475e-4,title:"[微服务架构设计] - 系统弹性设计之限流、熔断、降级",description:`引言
+`},{id:1769792702545,title:"[微服务架构设计] - 系统弹性设计之限流、熔断、降级",description:`引言
 
 在车贷系统这一对稳定性和合规性要求极高的金融交易核心场景中，确保系统的鲁棒性（Robustness）是架构设计的基石。一个微小的故障点可能通过服务雪崩效应（Cascading Failure）迅速扩散，导致核心交易服务瘫痪。本文将全面整合微服务架构中的雪崩效应原理、熔断降级（Circuit Breaking & Degradation）的设计哲学，并聚焦于 Dubbo/Sentinel...`,content:`## 引言
 
@@ -19758,7 +19758,7 @@ public void queryIsolatedDbForRiskCheck(OrderInfo order) {
 1.  **熔断隔离（Circuit Breaking）**：利用 Sentinel 的慢调用比例熔断外部依赖，实现毫秒级故障隔离。
 2.  **资源保护（Flow Control）**：通过 Sentinel 的 QPS 和并发线程数限制，保护服务自身和隔离数据库资源。
 3.  **合规降级（Compliance Degradation）**：在核心风控场景（如征信）中，采用**流程阻断**而非**数据 Mock**，返回强制失败信号，确保决策安全和合规留痕。
-4.  **分层降级（Multi-Level Degradation）**：通过 ES、缓存、隔离数据库的阶梯式降级，保障高可用性，同时避免将故障导向核心交易系统。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"9分钟",views:4571,html:`<h2>引言</h2>
+4.  **分层降级（Multi-Level Degradation）**：通过 ES、缓存、隔离数据库的阶梯式降级，保障高可用性，同时避免将故障导向核心交易系统。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"9分钟",views:1487,html:`<h2>引言</h2>
 <p>在车贷系统这一对稳定性和合规性要求极高的金融交易核心场景中，确保系统的<strong>鲁棒性（Robustness）是架构设计的基石。一个微小的故障点可能通过服务雪崩效应（Cascading Failure）迅速扩散，导致核心交易服务瘫痪。本文将全面整合微服务架构中的雪崩效应原理、熔断降级（Circuit Breaking &amp; Degradation）的设计哲学，并聚焦于 Dubbo/Sentinel 框架下的具体实践。我们将重点探讨两个高风险场景：外部征信接口熔断的合规处理和高并发数据查询的资源隔离</strong>，最终提供一套满足金融级要求的多级降级解决方案。</p>
 <hr>
 <h2>第一部分：雪崩的威胁与熔断器的演进</h2>
@@ -19944,7 +19944,7 @@ public void queryIsolatedDbForRiskCheck(OrderInfo order) {
 <li><strong>合规降级（Compliance Degradation）</strong>：在核心风控场景（如征信）中，采用<strong>流程阻断</strong>而非<strong>数据 Mock</strong>，返回强制失败信号，确保决策安全和合规留痕。</li>
 <li><strong>分层降级（Multi-Level Degradation）</strong>：通过 ES、缓存、隔离数据库的阶梯式降级，保障高可用性，同时避免将故障导向核心交易系统。</li>
 </ol>
-`},{id:17697916596805928e-4,title:"[微服务架构设计] - 配置中心的选择",description:`解构与重塑：微服务架构中的事件驱动（EDA）落地指南
+`},{id:1769792702230,title:"[微服务架构设计] - 配置中心的选择",description:`解构与重塑：微服务架构中的事件驱动（EDA）落地指南
 在微服务架构的演进过程中，服务间的耦合往往是阻碍系统扩展和降低可用性的元凶。从同步调用到异步线程，再到引入消息队列（MQ）构建事件驱动架构（EDA），每一步都是对“一致性”与“可用性”的权衡。本文将从一个经典的用户注册场景切入，深入剖析服务耦合的痛点，论证事件驱动架构的必要性，并结合车贷系统的实际案例，总结出一套切实可行的 EDA 落地方法论...`,content:`# 解构与重塑：微服务架构中的事件驱动（EDA）落地指南
 在微服务架构的演进过程中，服务间的耦合往往是阻碍系统扩展和降低可用性的元凶。从同步调用到异步线程，再到引入消息队列（MQ）构建事件驱动架构（EDA），每一步都是对“一致性”与“可用性”的权衡。本文将从一个经典的用户注册场景切入，深入剖析服务耦合的痛点，论证事件驱动架构的必要性，并结合车贷系统的实际案例，总结出一套切实可行的 EDA 落地方法论。
 
@@ -20176,7 +20176,7 @@ MQ 可能会重复投递消息（例如网络抖动导致 ACK 丢失）。业务
 3.  **敬畏数据**：使用 MQ 必须处理好“消息丢失”和“重复消费”的问题，幂等性设计是 EDA 的基石。
 4.  **适度原则**：对于简单的 CRUD 或强实时一致性要求（如读取最新余额），RPC/REST 依然是最佳选择。
 
-在车贷系统中，通过合理运用 EDA，我们将核心交易链路的响应时间降低了 40%，且在多次三方服务（短信、GPS）故障中，核心放款业务实现了 **0 中断**。这正是架构设计的价值所在——在不确定的环境中构建确定的系统。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"11分钟",views:224,html:`<h1>解构与重塑：微服务架构中的事件驱动（EDA）落地指南</h1>
+在车贷系统中，通过合理运用 EDA，我们将核心交易链路的响应时间降低了 40%，且在多次三方服务（短信、GPS）故障中，核心放款业务实现了 **0 中断**。这正是架构设计的价值所在——在不确定的环境中构建确定的系统。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"11分钟",views:565,html:`<h1>解构与重塑：微服务架构中的事件驱动（EDA）落地指南</h1>
 <p>在微服务架构的演进过程中，服务间的耦合往往是阻碍系统扩展和降低可用性的元凶。从同步调用到异步线程，再到引入消息队列（MQ）构建事件驱动架构（EDA），每一步都是对“一致性”与“可用性”的权衡。本文将从一个经典的用户注册场景切入，深入剖析服务耦合的痛点，论证事件驱动架构的必要性，并结合车贷系统的实际案例，总结出一套切实可行的 EDA 落地方法论。</p>
 <hr>
 <h2>一、 起源：一个“简单”的用户注册引发的血案</h2>
@@ -20377,7 +20377,7 @@ void onMessage(LoanDisbursedEvent event) {
 <li><strong>适度原则</strong>：对于简单的 CRUD 或强实时一致性要求（如读取最新余额），RPC/REST 依然是最佳选择。</li>
 </ol>
 <p>在车贷系统中，通过合理运用 EDA，我们将核心交易链路的响应时间降低了 40%，且在多次三方服务（短信、GPS）故障中，核心放款业务实现了 <strong>0 中断</strong>。这正是架构设计的价值所在——在不确定的环境中构建确定的系统。</p>
-`},{id:17697916596813333e-4,title:"[微服务架构设计] - 高并发缓存设计",description:`决胜毫秒级：车贷核心系统的高并发缓存架构实战与方法论
+`},{id:1769792702629,title:"[微服务架构设计] - 高并发缓存设计",description:`决胜毫秒级：车贷核心系统的高并发缓存架构实战与方法论
 
 在车贷金融领域，用户体验与风控效率是天平的两端。进件系统的响应速度直接决定了转化率，而额度查询的准确性则关乎资金安全。面对日均百万级的调用和瞬间的流量洪峰，简单的“Redis get/set”已无法满足生产环境的严苛要求。
 
@@ -20594,7 +20594,7 @@ public LoanApplication getApplication(String applyId) {
 
 在车贷系统中，缓存架构没有“银弹”。本地缓存换来了速度但牺牲了一致性，分布式锁换来了安全但增加了延迟。
 
-**优秀架构师的核心能力，是在具体的业务场景下，精准地权衡数据一致性（Consistency）、系统可用性（Availability）和分区容错性（Partition tolerance）。** 希望本文的实战案例与“4C”方法论，能为你构建高可用的金融级系统提供有力的参考。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"13分钟",views:4552,html:`<h1>决胜毫秒级：车贷核心系统的高并发缓存架构实战与方法论</h1>
+**优秀架构师的核心能力，是在具体的业务场景下，精准地权衡数据一致性（Consistency）、系统可用性（Availability）和分区容错性（Partition tolerance）。** 希望本文的实战案例与“4C”方法论，能为你构建高可用的金融级系统提供有力的参考。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"13分钟",views:1956,html:`<h1>决胜毫秒级：车贷核心系统的高并发缓存架构实战与方法论</h1>
 <p>在车贷金融领域，用户体验与风控效率是天平的两端。进件系统的响应速度直接决定了转化率，而额度查询的准确性则关乎资金安全。面对日均百万级的调用和瞬间的流量洪峰，简单的“Redis <code>get/set</code>”已无法满足生产环境的严苛要求。</p>
 <p>本文将结合一线车贷系统的生产实践，深入剖析<strong>多级缓存、防击穿策略及数据一致性</strong>的高阶玩法，并提炼出一套通用的缓存设计方法论。</p>
 <hr>
@@ -20844,7 +20844,7 @@ public LoanApplication getApplication(String applyId) {
 <h2>结语</h2>
 <p>在车贷系统中，缓存架构没有“银弹”。本地缓存换来了速度但牺牲了一致性，分布式锁换来了安全但增加了延迟。</p>
 <p><strong>优秀架构师的核心能力，是在具体的业务场景下，精准地权衡数据一致性（Consistency）、系统可用性（Availability）和分区容错性（Partition tolerance）。</strong> 希望本文的实战案例与“4C”方法论，能为你构建高可用的金融级系统提供有力的参考。</p>
-`},{id:1769791659682823e-3,title:"[微服务架构设计] -分布式系统顺序处理",description:`引言：分布式系统的“时空悖论”
+`},{id:1769792702369,title:"[微服务架构设计] -分布式系统顺序处理",description:`引言：分布式系统的“时空悖论”
 
 在单机程序的思维模型中，我们习惯了代码的行行相扣。但在分布式车贷系统中，这种“确定性”只是一种幻觉。
 
@@ -21027,7 +21027,7 @@ consumer.registerMessageListener(new MessageListenerOrderly() {
 顺序处理不仅是技术挑战，更是对业务理解深度的考验。只有看透了数据背后的因果关系，才能在乱序的互联网荒野中，构建出稳如泰山的金融基石。
 
 ---
-`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"9分钟",views:1824,html:`<h2>引言：分布式系统的“时空悖论”</h2>
+`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"9分钟",views:543,html:`<h2>引言：分布式系统的“时空悖论”</h2>
 <p>在单机程序的思维模型中，我们习惯了代码的行行相扣。但在分布式车贷系统中，这种“确定性”只是一种幻觉。</p>
 <p>想象一下：一个用户的还款操作，在后台触发了“代扣申请”、“账务核销”、“额度释放”三个指令。如果由于网络抖动，核销指令先于代扣成功信号到达账务中心，会发生什么？轻则数据冲突，重则产生资损。在微服务的荒野中，“时间”和“顺序”就像不可捉摸的幽灵，而我们构建系统的核心目标之一，就是重新建立这种秩序。</p>
 <hr>
@@ -21164,7 +21164,7 @@ consumer.registerMessageListener(new MessageListenerOrderly() {
 </ol>
 <p>顺序处理不仅是技术挑战，更是对业务理解深度的考验。只有看透了数据背后的因果关系，才能在乱序的互联网荒野中，构建出稳如泰山的金融基石。</p>
 <hr>
-`},{id:17697916596835732e-4,title:"[微服务架构设计] 服务如何划分",description:`车贷系统微服务改造实战：服务边界的四步演进与七重关卡
+`},{id:1769792702574,title:"[微服务架构设计] 服务如何划分",description:`车贷系统微服务改造实战：服务边界的四步演进与七重关卡
 
 在决定将车贷系统的单体架构升级为微服务架构时，我们深知这不仅是技术的升级，更是对团队协作与架构认知的挑战。如何在保持业务连续性的前提下，设定合理的服务边界？
 
@@ -21326,7 +21326,7 @@ consumer.registerMessageListener(new MessageListenerOrderly() {
 * **经验法则**：一般的请求—响应类操作应该在 **4 层以内**比较合适（应用服务网关 -> 业务服务 -> 数据服务 -> 公共服务）。
 * **复杂场景的例外**：如风控系统的一次决策最多需要 6 层调用。但由于该流程通过 **MQ 实现完全异步化处理**，对实时性要求不高，多层调用是为了彻底解耦，因此这种长链路是可接受的。
 
-**服务的划分是微服务设计的第一步，也是成功实施的关键。架构设计不应该仅仅关注技术层面，人的因素、团队和项目的特定因素往往更为重要。** 架构师的能力和经验，在于如何灵活机动地平衡原则和实际需求。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"9分钟",views:1378,html:`<h1>车贷系统微服务改造实战：服务边界的四步演进与七重关卡</h1>
+**服务的划分是微服务设计的第一步，也是成功实施的关键。架构设计不应该仅仅关注技术层面，人的因素、团队和项目的特定因素往往更为重要。** 架构师的能力和经验，在于如何灵活机动地平衡原则和实际需求。`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"9分钟",views:2286,html:`<h1>车贷系统微服务改造实战：服务边界的四步演进与七重关卡</h1>
 <p>在决定将车贷系统的单体架构升级为微服务架构时，我们深知这不仅是技术的升级，更是对团队协作与架构认知的挑战。如何在保持业务连续性的前提下，设定合理的服务边界？</p>
 <p>我们坚持五大核心原则：<strong>符合团队结构、业务边界清晰、最小化变更、最大化复用、性能稳定简洁。</strong> 本文将详细复盘我们是如何通过多维视角规划服务，并通过七个维度的深度检查，一步步完成车贷系统的微服务化拆分。</p>
 <hr>
@@ -21456,7 +21456,7 @@ consumer.registerMessageListener(new MessageListenerOrderly() {
 <li><strong>复杂场景的例外</strong>：如风控系统的一次决策最多需要 6 层调用。但由于该流程通过 <strong>MQ 实现完全异步化处理</strong>，对实时性要求不高，多层调用是为了彻底解耦，因此这种长链路是可接受的。</li>
 </ul>
 <p><strong>服务的划分是微服务设计的第一步，也是成功实施的关键。架构设计不应该仅仅关注技术层面，人的因素、团队和项目的特定因素往往更为重要。</strong> 架构师的能力和经验，在于如何灵活机动地平衡原则和实际需求。</p>
-`},{id:17697916596841257e-4,title:"[微服务架构设计] —— 业务背景与架构蓝图",description:`欢迎来到《微服务架构设计》专栏。本系列将带领读者从零开始，构建一套高性能、高可靠的互联网车贷管理系统。我们将系统性地探讨微服务架构设计、技术选型与核心难题的解决方案。
+`},{id:1769792702165,title:"[微服务架构设计] —— 业务背景与架构蓝图",description:`欢迎来到《微服务架构设计》专栏。本系列将带领读者从零开始，构建一套高性能、高可靠的互联网车贷管理系统。我们将系统性地探讨微服务架构设计、技术选型与核心难题的解决方案。
 
 选择车贷系统，因为它完美结合了 ToC 体验的高要求（1小时快速放款）与金融级风控的复杂性，是深入理解微服务架构的绝佳案例。
 
@@ -21544,7 +21544,7 @@ consumer.registerMessageListener(new MessageListenerOrderly() {
 18. **分布式数据理论：** **一致性与共识算法**（如 Raft）在金融系统中的应用
 19. **架构取舍决策：** **CAP 理论**指导下，金融业务中 CP 与 AP 的艰难平衡在接下来的专栏中，我们将深入探讨微服务架构设计的核心
 
-敬请期待下一篇，我们将从最基础也是最关键的 **单体架构设计** 开始，正式启动车贷系统的架构设计实战之旅！`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"5分钟",views:3834,html:`<p>欢迎来到《微服务架构设计》专栏。本系列将带领读者从零开始，构建一套高性能、高可靠的<strong>互联网车贷管理系统</strong>。我们将系统性地探讨微服务架构设计、技术选型与核心难题的解决方案。</p>
+敬请期待下一篇，我们将从最基础也是最关键的 **单体架构设计** 开始，正式启动车贷系统的架构设计实战之旅！`,tags:["微服务架构设计","技术文章"],date:"2025-12-27",readTime:"5分钟",views:1236,html:`<p>欢迎来到《微服务架构设计》专栏。本系列将带领读者从零开始，构建一套高性能、高可靠的<strong>互联网车贷管理系统</strong>。我们将系统性地探讨微服务架构设计、技术选型与核心难题的解决方案。</p>
 <p>选择车贷系统，因为它完美结合了 ToC 体验的高要求（1小时快速放款）与金融级风控的复杂性，是深入理解微服务架构的绝佳案例。</p>
 <hr>
 <h3>1. 业务背景：从 3 天到 1 小时的变革</h3>
@@ -21667,4 +21667,4 @@ consumer.registerMessageListener(new MessageListenerOrderly() {
 <li><strong>架构取舍决策：</strong> <strong>CAP 理论</strong>指导下，金融业务中 CP 与 AP 的艰难平衡在接下来的专栏中，我们将深入探讨微服务架构设计的核心</li>
 </ol>
 <p>敬请期待下一篇，我们将从最基础也是最关键的 <strong>单体架构设计</strong> 开始，正式启动车贷系统的架构设计实战之旅！</p>
-`}],j=D("articles",()=>{const u=A(J),l=A(null),s=A(!1),a=A(""),n=A(""),i=v(()=>{const e=new Set;return u.value.forEach(o=>{o.tags.forEach(d=>e.add(d))}),Array.from(e).sort()}),p=v(()=>{let e=u.value;if(n.value&&(e=e.filter(o=>o.tags.includes(n.value))),a.value){const o=a.value.toLowerCase();e=e.filter(d=>d.title.toLowerCase().includes(o)||d.description.toLowerCase().includes(o)||d.content.toLowerCase().includes(o))}return e}),t=v(()=>{const e={};return u.value.forEach(o=>{const d=o.date.split("-")[0];e[d]||(e[d]=[]),e[d].push(o)}),Object.entries(e).sort((o,d)=>d[0]-o[0])});function q(e){return s.value=!0,l.value=u.value.find(o=>o.id===parseInt(e)),s.value=!1,l.value}function g(e){a.value=e}function f(e){n.value=e}function c(){a.value="",n.value=""}return{articles:u,currentArticle:l,loading:s,searchQuery:a,selectedTag:n,allTags:i,filteredArticles:p,articlesByDate:t,getArticleById:q,setSearchQuery:g,setSelectedTag:f,clearFilters:c}}),W={class:"relative"},z={class:"relative"},Y={key:0,class:"absolute top-full left-0 right-0 mt-2 bg-white rounded-lg shadow-lg border border-gray-100 max-h-96 overflow-y-auto z-50"},X={class:"p-2"},Z={class:"text-xs text-gray-500 px-3 py-2"},nn=["onClick"],tn={class:"font-medium text-dark text-sm"},en={class:"text-xs text-gray-500 mt-1 line-clamp-1"},on={key:0,class:"absolute top-full left-0 right-0 mt-2 bg-white rounded-lg shadow-lg border border-gray-100 p-4 text-center text-gray-500 z-50"},rn={__name:"SearchBar",emits:["close"],setup(u,{emit:l}){const s=l,a=x(),n=j(),i=A(""),p=A(null),t=v(()=>{if(!i.value)return[];const c=i.value.toLowerCase();return n.articles.filter(e=>e.title.toLowerCase().includes(c)||e.description.toLowerCase().includes(c)||e.content.toLowerCase().includes(c)).slice(0,5)});function q(){}function g(){var c;i.value="",(c=p.value)==null||c.focus()}function f(c){a.push(`/article/${c}`),s("close")}return G(()=>{var c;(c=p.value)==null||c.focus()}),(c,e)=>(h(),m("div",W,[r("div",z,[O(r("input",{"onUpdate:modelValue":e[0]||(e[0]=o=>i.value=o),type:"text",placeholder:"搜索文章...",class:"w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all duration-300",onInput:q,ref_key:"searchInput",ref:p},null,544),[[B,i.value]]),e[2]||(e[2]=r("svg",{class:"absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"})],-1)),i.value?(h(),m("button",{key:0,onClick:g,class:"absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"},[...e[1]||(e[1]=[r("svg",{class:"w-5 h-5",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M6 18L18 6M6 6l12 12"})],-1)])])):L("",!0)]),_(P,{name:"fade"},{default:y(()=>[t.value.length>0&&i.value?(h(),m("div",Y,[r("div",X,[r("div",Z," 找到 "+b(t.value.length)+" 篇文章 ",1),(h(!0),m(I,null,M(t.value,o=>(h(),m("button",{key:o.id,onClick:d=>f(o.id),class:"w-full text-left px-3 py-2 rounded-lg hover:bg-gray-50 transition-colors duration-200"},[r("div",tn,b(o.title),1),r("div",en,b(o.description),1)],8,nn))),128))])])):L("",!0)]),_:1}),_(P,{name:"fade"},{default:y(()=>[i.value&&t.value.length===0?(h(),m("div",on," 没有找到相关文章 ")):L("",!0)]),_:1})]))}},sn=(u,l)=>{const s=u.__vccOpts||u;for(const[a,n]of l)s[a]=n;return s},an={class:"sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100"},ln={class:"container-custom"},gn={class:"flex items-center justify-between h-16"},un={class:"hidden md:flex items-center space-x-8"},pn={class:"flex items-center space-x-4"},dn={key:0,class:"w-6 h-6",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},cn={key:1,class:"w-6 h-6",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},hn={key:0,class:"py-4 border-t border-gray-100"},mn={key:0,class:"md:hidden py-4 border-t border-gray-100"},_n={class:"flex flex-col space-y-4"},qn={__name:"AppHeader",setup(u){const l=A(!1),s=A(!1),a=[{name:"首页",path:"/"},{name:"文章",path:"/articles"},{name:"标签",path:"/tags"},{name:"归档",path:"/archive"},{name:"关于",path:"/about"}];function n(){l.value=!l.value}function i(){s.value=!s.value}return(p,t)=>{const q=w("router-link");return h(),m("header",an,[r("div",ln,[r("div",gn,[_(q,{to:"/",class:"flex items-center space-x-2"},{default:y(()=>[...t[1]||(t[1]=[r("div",{class:"w-8 h-8 bg-primary rounded-lg flex items-center justify-center"},[r("span",{class:"text-white font-bold text-sm"},"W")],-1),r("span",{class:"font-semibold text-lg text-dark hover:text-primary transition-colors"}," Hernon ",-1)])]),_:1}),r("nav",un,[(h(),m(I,null,M(a,g=>_(q,{key:g.path,to:g.path,class:"text-gray-600 hover:text-primary transition-colors link-underline","active-class":"text-primary"},{default:y(()=>[T(b(g.name),1)]),_:2},1032,["to"])),64))]),r("div",pn,[r("button",{onClick:n,class:"p-2 text-gray-600 hover:text-primary transition-colors","aria-label":"搜索"},[...t[2]||(t[2]=[r("svg",{class:"w-5 h-5",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"})],-1)])]),r("button",{onClick:i,class:"md:hidden p-2 text-gray-600 hover:text-primary transition-colors","aria-label":"菜单"},[s.value?(h(),m("svg",cn,[...t[4]||(t[4]=[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M6 18L18 6M6 6l12 12"},null,-1)])])):(h(),m("svg",dn,[...t[3]||(t[3]=[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M4 6h16M4 12h16M4 18h16"},null,-1)])]))])])]),_(P,{name:"slide-down"},{default:y(()=>[l.value?(h(),m("div",hn,[_(rn,{onClose:n})])):L("",!0)]),_:1}),_(P,{name:"slide-down"},{default:y(()=>[s.value?(h(),m("nav",mn,[r("div",_n,[(h(),m(I,null,M(a,g=>_(q,{key:g.path,to:g.path,class:"text-gray-600 hover:text-primary transition-colors py-2","active-class":"text-primary",onClick:t[0]||(t[0]=f=>s.value=!1)},{default:y(()=>[T(b(g.name),1)]),_:2},1032,["to"])),64))])])):L("",!0)]),_:1})])])}}},fn=sn(qn,[["__scopeId","data-v-f5c76faa"]]),An={class:"bg-white border-t border-gray-100 mt-auto"},yn={class:"container-custom py-8"},Sn={class:"flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0"},bn={class:"text-sm text-gray-500"},Ln={__name:"AppFooter",setup(u){const l=new Date().getFullYear();return(s,a)=>(h(),m("footer",An,[r("div",yn,[r("div",Sn,[r("div",bn," © "+b(N(l))+" Hernon. All rights reserved. ",1),a[0]||(a[0]=$('<div class="flex items-center space-x-6"><a href="https://github.com/wanghenan" target="_blank" rel="noopener" class="text-gray-400 hover:text-primary transition-colors" aria-label="GitHub"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg></a><a href="https://blog.csdn.net/qq_33618717?type=blog" target="_blank" rel="noopener" class="text-gray-400 hover:text-primary transition-colors" aria-label="CSDN" title="CSDN博客"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12.015 7.338c4.734-.622 7.676 2.044 8.503 5.365.471 1.895.272 3.712-.535 4.936-1.016 1.543-2.779 2.674-4.836 2.549-2.711-.165-3.683-2.373-5.303-4.045-1.03-1.063-1.94-1.148-2.378-.105-.628 1.494-1.127 3.131-1.913 4.563-1.336 2.436-4.043 2.765-5.666 1.118-1.437-1.46-1.378-4.478.108-5.893 3.027-2.882 7.688-5.17 12.02-5.888zM11.5 4.5c-1.889 0-3.429 1.43-3.609 3.308-.093.972.218 1.867.82 2.518 1.021 1.105 2.634 1.268 3.601.37.624-.58 1.004-1.427 1.037-2.308.051-1.35-1.003-2.473-2.303-2.884-.477-.15-1.022-.15-1.5-.004H11.5zm-8 2.5c-1.38 0-2.5 1.12-2.5 2.5s1.12 2.5 2.5 2.5 2.5-1.12 2.5-2.5-1.12-2.5-2.5-2.5zm4.5 12c1.93 0 3.5-1.57 3.5-3.5V12c0-1.93-1.57-3.5-3.5-3.5S12 10.07 12 12v3.5c0 1.93 1.57 3.5 3.5 3.5z"></path></svg></a><a href="https://www.xiaohongshu.com/user/profile/6471d187000000002a03561e" target="_blank" rel="noopener" class="text-gray-400 hover:text-primary transition-colors" aria-label="小红书" title="小红书"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12.987 2.194c-3.05-.09-5.787 1.847-6.833 4.792a6.085 6.085 0 00-1.27 4.147c.14.65.49 1.263.987 1.76a5.7 5.7 0 013.15 3.867c.39 1.244.18 2.608-.56 3.679-.75 1.084-1.91 1.72-3.19 1.72-1.02 0-2.03-.34-2.9-.98-1.15-.85-1.84-2.08-1.92-3.43-.11-1.93.55-3.79 1.8-5.1a9.21 9.21 0 013.84-2.49c2.05-.67 4.22-.33 6.03.93 1.14.79 2.01 1.86 2.52 3.09.12.28.08.6-.1.84-.2.27-.52.4-.84.35-.32-.05-.56-.33-.61-.65a6.83 6.83 0 00-2.3-3.12 7.16 7.16 0 00-3.65-1.43c-.96-.13-1.93.11-2.75.67a4.67 4.67 0 00-1.54 1.83c-.14.35-.54.55-.91.46-.37-.1-.56-.49-.45-.84.34-1.1 1.05-2.05 2.01-2.7.95-.65 2.11-.92 3.21-.77.55.08 1.08.26 1.57.54.2.12.45.14.67.05.22-.08.37-.29.38-.52.02-.56.05-1.12.05-1.68 0-.38-.26-.71-.62-.79-.36-.08-.75.06-.94.38-.44.75-.85 1.52-1.22 2.32-.18.38-.63.58-1.04.47-.41-.1-.64-.52-.53-.93.34-1.26.82-2.44 1.43-3.52A7.28 7.28 0 0012.987 2.194z"></path></svg></a><a href="mailto:976062158@qq.com" class="text-gray-400 hover:text-primary transition-colors" aria-label="Email"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg></a></div>',1))]),a[1]||(a[1]=r("div",{class:"mt-4 text-center text-xs text-gray-400"}," Built with Vue.js 3 + Vite + Tailwind CSS ",-1))])]))}},Pn={class:"min-h-screen flex flex-col bg-light"},Cn={class:"flex-grow"},vn={__name:"App",setup(u){return(l,s)=>{const a=w("router-view");return h(),m("div",Pn,[_(fn),r("main",Cn,[_(a,null,{default:y(({Component:n})=>[_(P,{name:"fade",mode:"out-in"},{default:y(()=>[(h(),K(F(n)))]),_:2},1024)]),_:1})]),_(Ln)])}}},In="modulepreload",Mn=function(u,l){return new URL(u,l).href},R={},S=function(l,s,a){let n=Promise.resolve();if(s&&s.length>0){const p=document.getElementsByTagName("link"),t=document.querySelector("meta[property=csp-nonce]"),q=(t==null?void 0:t.nonce)||(t==null?void 0:t.getAttribute("nonce"));n=Promise.allSettled(s.map(g=>{if(g=Mn(g,a),g in R)return;R[g]=!0;const f=g.endsWith(".css"),c=f?'[rel="stylesheet"]':"";if(!!a)for(let d=p.length-1;d>=0;d--){const C=p[d];if(C.href===g&&(!f||C.rel==="stylesheet"))return}else if(document.querySelector(`link[href="${g}"]${c}`))return;const o=document.createElement("link");if(o.rel=f?"stylesheet":In,f||(o.as="script"),o.crossOrigin="",o.href=g,q&&o.setAttribute("nonce",q),document.head.appendChild(o),f)return new Promise((d,C)=>{o.addEventListener("load",d),o.addEventListener("error",()=>C(new Error(`Unable to preload CSS for ${g}`)))})}))}function i(p){const t=new Event("vite:preloadError",{cancelable:!0});if(t.payload=p,window.dispatchEvent(t),!t.defaultPrevented)throw p}return n.then(p=>{for(const t of p||[])t.status==="rejected"&&i(t.reason);return l().catch(i)})},kn=[{path:"/",name:"Home",component:()=>S(()=>import("./HomeView-BFPleM3T.js"),__vite__mapDeps([0,1,2]),import.meta.url),meta:{title:"首页"}},{path:"/articles",name:"Articles",component:()=>S(()=>import("./ArticlesView-oVlOZ9Ep.js"),__vite__mapDeps([3,1,2]),import.meta.url),meta:{title:"文章"}},{path:"/article/:id",name:"Article",component:()=>S(()=>import("./ArticleView-9uZYLI9J.js"),__vite__mapDeps([4,1,5]),import.meta.url),meta:{title:"文章详情"}},{path:"/tags",name:"Tags",component:()=>S(()=>import("./TagsView-sVBu5Up_.js"),__vite__mapDeps([6,1]),import.meta.url),meta:{title:"标签"}},{path:"/tag/:tag",name:"Tag",component:()=>S(()=>import("./TagView-D6mSEaGl.js"),__vite__mapDeps([7,1,2]),import.meta.url),meta:{title:"标签文章"}},{path:"/archive",name:"Archive",component:()=>S(()=>import("./ArchiveView-BZG87n8O.js"),__vite__mapDeps([8,1]),import.meta.url),meta:{title:"归档"}},{path:"/about",name:"About",component:()=>S(()=>import("./AboutView-DdOUTWyw.js"),__vite__mapDeps([9,1]),import.meta.url),meta:{title:"关于"}},{path:"/:pathMatch(.*)*",name:"NotFound",component:()=>S(()=>import("./NotFoundView-hK3yvbao.js"),__vite__mapDeps([10,1]),import.meta.url),meta:{title:"404"}}],E=H({history:U(),routes:kn,scrollBehavior(u,l,s){return s||{top:0}}});E.beforeEach((u,l,s)=>{document.title=`${u.meta.title||"页面"} | 王贺南的博客`,s()});const k=Q(vn);k.use(V());k.use(E);k.mount("#app");export{sn as _,j as u};
+`}],j=D("articles",()=>{const p=A(J),l=A(null),s=A(!1),a=A(""),n=A(""),i=v(()=>{const t=new Set;return p.value.forEach(o=>{o.tags.forEach(u=>t.add(u))}),Array.from(t).sort()}),d=v(()=>{let t=p.value;if(n.value&&(t=t.filter(o=>o.tags.includes(n.value))),a.value){const o=a.value.toLowerCase();t=t.filter(u=>u.title.toLowerCase().includes(o)||u.description.toLowerCase().includes(o)||u.content.toLowerCase().includes(o))}return t}),e=v(()=>{const t={};return p.value.forEach(o=>{const u=o.date.split("-")[0];t[u]||(t[u]=[]),t[u].push(o)}),Object.entries(t).sort((o,u)=>u[0]-o[0])});function q(t){s.value=!0;const o=typeof t=="string"?Math.floor(parseFloat(t)):t;return l.value=p.value.find(u=>Math.floor(u.id)===o),s.value=!1,l.value}function g(t){a.value=t}function f(t){n.value=t}function c(){a.value="",n.value=""}return{articles:p,currentArticle:l,loading:s,searchQuery:a,selectedTag:n,allTags:i,filteredArticles:d,articlesByDate:e,getArticleById:q,setSearchQuery:g,setSelectedTag:f,clearFilters:c}}),W={class:"relative"},z={class:"relative"},Y={key:0,class:"absolute top-full left-0 right-0 mt-2 bg-white rounded-lg shadow-lg border border-gray-100 max-h-96 overflow-y-auto z-50"},X={class:"p-2"},Z={class:"text-xs text-gray-500 px-3 py-2"},nn=["onClick"],tn={class:"font-medium text-dark text-sm"},en={class:"text-xs text-gray-500 mt-1 line-clamp-1"},on={key:0,class:"absolute top-full left-0 right-0 mt-2 bg-white rounded-lg shadow-lg border border-gray-100 p-4 text-center text-gray-500 z-50"},rn={__name:"SearchBar",emits:["close"],setup(p,{emit:l}){const s=l,a=x(),n=j(),i=A(""),d=A(null),e=v(()=>{if(!i.value)return[];const c=i.value.toLowerCase();return n.articles.filter(t=>t.title.toLowerCase().includes(c)||t.description.toLowerCase().includes(c)||t.content.toLowerCase().includes(c)).slice(0,5)});function q(){}function g(){var c;i.value="",(c=d.value)==null||c.focus()}function f(c){a.push(`/article/${c}`),s("close")}return G(()=>{var c;(c=d.value)==null||c.focus()}),(c,t)=>(h(),m("div",W,[r("div",z,[O(r("input",{"onUpdate:modelValue":t[0]||(t[0]=o=>i.value=o),type:"text",placeholder:"搜索文章...",class:"w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all duration-300",onInput:q,ref_key:"searchInput",ref:d},null,544),[[B,i.value]]),t[2]||(t[2]=r("svg",{class:"absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"})],-1)),i.value?(h(),m("button",{key:0,onClick:g,class:"absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"},[...t[1]||(t[1]=[r("svg",{class:"w-5 h-5",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M6 18L18 6M6 6l12 12"})],-1)])])):L("",!0)]),_(P,{name:"fade"},{default:y(()=>[e.value.length>0&&i.value?(h(),m("div",Y,[r("div",X,[r("div",Z," 找到 "+b(e.value.length)+" 篇文章 ",1),(h(!0),m(I,null,M(e.value,o=>(h(),m("button",{key:o.id,onClick:u=>f(o.id),class:"w-full text-left px-3 py-2 rounded-lg hover:bg-gray-50 transition-colors duration-200"},[r("div",tn,b(o.title),1),r("div",en,b(o.description),1)],8,nn))),128))])])):L("",!0)]),_:1}),_(P,{name:"fade"},{default:y(()=>[i.value&&e.value.length===0?(h(),m("div",on," 没有找到相关文章 ")):L("",!0)]),_:1})]))}},sn=(p,l)=>{const s=p.__vccOpts||p;for(const[a,n]of l)s[a]=n;return s},an={class:"sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100"},ln={class:"container-custom"},gn={class:"flex items-center justify-between h-16"},un={class:"hidden md:flex items-center space-x-8"},pn={class:"flex items-center space-x-4"},dn={key:0,class:"w-6 h-6",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},cn={key:1,class:"w-6 h-6",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},hn={key:0,class:"py-4 border-t border-gray-100"},mn={key:0,class:"md:hidden py-4 border-t border-gray-100"},_n={class:"flex flex-col space-y-4"},qn={__name:"AppHeader",setup(p){const l=A(!1),s=A(!1),a=[{name:"首页",path:"/"},{name:"文章",path:"/articles"},{name:"标签",path:"/tags"},{name:"归档",path:"/archive"},{name:"关于",path:"/about"}];function n(){l.value=!l.value}function i(){s.value=!s.value}return(d,e)=>{const q=w("router-link");return h(),m("header",an,[r("div",ln,[r("div",gn,[_(q,{to:"/",class:"flex items-center space-x-2"},{default:y(()=>[...e[1]||(e[1]=[r("div",{class:"w-8 h-8 bg-primary rounded-lg flex items-center justify-center"},[r("span",{class:"text-white font-bold text-sm"},"W")],-1),r("span",{class:"font-semibold text-lg text-dark hover:text-primary transition-colors"}," Hernon ",-1)])]),_:1}),r("nav",un,[(h(),m(I,null,M(a,g=>_(q,{key:g.path,to:g.path,class:"text-gray-600 hover:text-primary transition-colors link-underline","active-class":"text-primary"},{default:y(()=>[T(b(g.name),1)]),_:2},1032,["to"])),64))]),r("div",pn,[r("button",{onClick:n,class:"p-2 text-gray-600 hover:text-primary transition-colors","aria-label":"搜索"},[...e[2]||(e[2]=[r("svg",{class:"w-5 h-5",fill:"none",stroke:"currentColor",viewBox:"0 0 24 24"},[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"})],-1)])]),r("button",{onClick:i,class:"md:hidden p-2 text-gray-600 hover:text-primary transition-colors","aria-label":"菜单"},[s.value?(h(),m("svg",cn,[...e[4]||(e[4]=[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M6 18L18 6M6 6l12 12"},null,-1)])])):(h(),m("svg",dn,[...e[3]||(e[3]=[r("path",{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M4 6h16M4 12h16M4 18h16"},null,-1)])]))])])]),_(P,{name:"slide-down"},{default:y(()=>[l.value?(h(),m("div",hn,[_(rn,{onClose:n})])):L("",!0)]),_:1}),_(P,{name:"slide-down"},{default:y(()=>[s.value?(h(),m("nav",mn,[r("div",_n,[(h(),m(I,null,M(a,g=>_(q,{key:g.path,to:g.path,class:"text-gray-600 hover:text-primary transition-colors py-2","active-class":"text-primary",onClick:e[0]||(e[0]=f=>s.value=!1)},{default:y(()=>[T(b(g.name),1)]),_:2},1032,["to"])),64))])])):L("",!0)]),_:1})])])}}},fn=sn(qn,[["__scopeId","data-v-f5c76faa"]]),An={class:"bg-white border-t border-gray-100 mt-auto"},yn={class:"container-custom py-8"},Sn={class:"flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0"},bn={class:"text-sm text-gray-500"},Ln={__name:"AppFooter",setup(p){const l=new Date().getFullYear();return(s,a)=>(h(),m("footer",An,[r("div",yn,[r("div",Sn,[r("div",bn," © "+b(N(l))+" Hernon. All rights reserved. ",1),a[0]||(a[0]=$('<div class="flex items-center space-x-6"><a href="https://github.com/wanghenan" target="_blank" rel="noopener" class="text-gray-400 hover:text-primary transition-colors" aria-label="GitHub"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg></a><a href="https://blog.csdn.net/qq_33618717?type=blog" target="_blank" rel="noopener" class="text-gray-400 hover:text-primary transition-colors" aria-label="CSDN" title="CSDN博客"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12.015 7.338c4.734-.622 7.676 2.044 8.503 5.365.471 1.895.272 3.712-.535 4.936-1.016 1.543-2.779 2.674-4.836 2.549-2.711-.165-3.683-2.373-5.303-4.045-1.03-1.063-1.94-1.148-2.378-.105-.628 1.494-1.127 3.131-1.913 4.563-1.336 2.436-4.043 2.765-5.666 1.118-1.437-1.46-1.378-4.478.108-5.893 3.027-2.882 7.688-5.17 12.02-5.888zM11.5 4.5c-1.889 0-3.429 1.43-3.609 3.308-.093.972.218 1.867.82 2.518 1.021 1.105 2.634 1.268 3.601.37.624-.58 1.004-1.427 1.037-2.308.051-1.35-1.003-2.473-2.303-2.884-.477-.15-1.022-.15-1.5-.004H11.5zm-8 2.5c-1.38 0-2.5 1.12-2.5 2.5s1.12 2.5 2.5 2.5 2.5-1.12 2.5-2.5-1.12-2.5-2.5-2.5zm4.5 12c1.93 0 3.5-1.57 3.5-3.5V12c0-1.93-1.57-3.5-3.5-3.5S12 10.07 12 12v3.5c0 1.93 1.57 3.5 3.5 3.5z"></path></svg></a><a href="https://www.xiaohongshu.com/user/profile/6471d187000000002a03561e" target="_blank" rel="noopener" class="text-gray-400 hover:text-primary transition-colors" aria-label="小红书" title="小红书"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12.987 2.194c-3.05-.09-5.787 1.847-6.833 4.792a6.085 6.085 0 00-1.27 4.147c.14.65.49 1.263.987 1.76a5.7 5.7 0 013.15 3.867c.39 1.244.18 2.608-.56 3.679-.75 1.084-1.91 1.72-3.19 1.72-1.02 0-2.03-.34-2.9-.98-1.15-.85-1.84-2.08-1.92-3.43-.11-1.93.55-3.79 1.8-5.1a9.21 9.21 0 013.84-2.49c2.05-.67 4.22-.33 6.03.93 1.14.79 2.01 1.86 2.52 3.09.12.28.08.6-.1.84-.2.27-.52.4-.84.35-.32-.05-.56-.33-.61-.65a6.83 6.83 0 00-2.3-3.12 7.16 7.16 0 00-3.65-1.43c-.96-.13-1.93.11-2.75.67a4.67 4.67 0 00-1.54 1.83c-.14.35-.54.55-.91.46-.37-.1-.56-.49-.45-.84.34-1.1 1.05-2.05 2.01-2.7.95-.65 2.11-.92 3.21-.77.55.08 1.08.26 1.57.54.2.12.45.14.67.05.22-.08.37-.29.38-.52.02-.56.05-1.12.05-1.68 0-.38-.26-.71-.62-.79-.36-.08-.75.06-.94.38-.44.75-.85 1.52-1.22 2.32-.18.38-.63.58-1.04.47-.41-.1-.64-.52-.53-.93.34-1.26.82-2.44 1.43-3.52A7.28 7.28 0 0012.987 2.194z"></path></svg></a><a href="mailto:976062158@qq.com" class="text-gray-400 hover:text-primary transition-colors" aria-label="Email"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg></a></div>',1))]),a[1]||(a[1]=r("div",{class:"mt-4 text-center text-xs text-gray-400"}," Built with Vue.js 3 + Vite + Tailwind CSS ",-1))])]))}},Pn={class:"min-h-screen flex flex-col bg-light"},Cn={class:"flex-grow"},vn={__name:"App",setup(p){return(l,s)=>{const a=w("router-view");return h(),m("div",Pn,[_(fn),r("main",Cn,[_(a,null,{default:y(({Component:n})=>[_(P,{name:"fade",mode:"out-in"},{default:y(()=>[(h(),K(F(n)))]),_:2},1024)]),_:1})]),_(Ln)])}}},In="modulepreload",Mn=function(p,l){return new URL(p,l).href},R={},S=function(l,s,a){let n=Promise.resolve();if(s&&s.length>0){const d=document.getElementsByTagName("link"),e=document.querySelector("meta[property=csp-nonce]"),q=(e==null?void 0:e.nonce)||(e==null?void 0:e.getAttribute("nonce"));n=Promise.allSettled(s.map(g=>{if(g=Mn(g,a),g in R)return;R[g]=!0;const f=g.endsWith(".css"),c=f?'[rel="stylesheet"]':"";if(!!a)for(let u=d.length-1;u>=0;u--){const C=d[u];if(C.href===g&&(!f||C.rel==="stylesheet"))return}else if(document.querySelector(`link[href="${g}"]${c}`))return;const o=document.createElement("link");if(o.rel=f?"stylesheet":In,f||(o.as="script"),o.crossOrigin="",o.href=g,q&&o.setAttribute("nonce",q),document.head.appendChild(o),f)return new Promise((u,C)=>{o.addEventListener("load",u),o.addEventListener("error",()=>C(new Error(`Unable to preload CSS for ${g}`)))})}))}function i(d){const e=new Event("vite:preloadError",{cancelable:!0});if(e.payload=d,window.dispatchEvent(e),!e.defaultPrevented)throw d}return n.then(d=>{for(const e of d||[])e.status==="rejected"&&i(e.reason);return l().catch(i)})},kn=[{path:"/",name:"Home",component:()=>S(()=>import("./HomeView-WUE7siXu.js"),__vite__mapDeps([0,1,2]),import.meta.url),meta:{title:"首页"}},{path:"/articles",name:"Articles",component:()=>S(()=>import("./ArticlesView-qfQ9hV5L.js"),__vite__mapDeps([3,1,2]),import.meta.url),meta:{title:"文章"}},{path:"/article/:id",name:"Article",component:()=>S(()=>import("./ArticleView-BDUPh3-8.js"),__vite__mapDeps([4,1,5]),import.meta.url),meta:{title:"文章详情"}},{path:"/tags",name:"Tags",component:()=>S(()=>import("./TagsView-Cp0l1P4D.js"),__vite__mapDeps([6,1]),import.meta.url),meta:{title:"标签"}},{path:"/tag/:tag",name:"Tag",component:()=>S(()=>import("./TagView-BTP9rJRM.js"),__vite__mapDeps([7,1,2]),import.meta.url),meta:{title:"标签文章"}},{path:"/archive",name:"Archive",component:()=>S(()=>import("./ArchiveView-CCEqYVxf.js"),__vite__mapDeps([8,1]),import.meta.url),meta:{title:"归档"}},{path:"/about",name:"About",component:()=>S(()=>import("./AboutView-BEgqMkwz.js"),__vite__mapDeps([9,1]),import.meta.url),meta:{title:"关于"}},{path:"/:pathMatch(.*)*",name:"NotFound",component:()=>S(()=>import("./NotFoundView-D231PyuL.js"),__vite__mapDeps([10,1]),import.meta.url),meta:{title:"404"}}],E=H({history:U(),routes:kn,scrollBehavior(p,l,s){return s||{top:0}}});E.beforeEach((p,l,s)=>{document.title=`${p.meta.title||"页面"} | 王贺南的博客`,s()});const k=Q(vn);k.use(V());k.use(E);k.mount("#app");export{sn as _,j as u};

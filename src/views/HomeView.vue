@@ -6,8 +6,8 @@
         <h1 class="text-4xl md:text-5xl font-bold text-dark mb-6">
           你好，我是<span class="text-primary">Hernon</span>
         </h1>
-        <p class="text-lg text-gray-600 leading-relaxed mb-8">
-          我是一名全栈开发者，热爱技术和开源。
+        <p class="text-lg text-gray-600 leading-relaxed mb-8 text-center">
+          我是一名AI方案解决师，热爱技术和开源。
           在这里分享我的学习笔记、项目经验和思考。
         </p>
         

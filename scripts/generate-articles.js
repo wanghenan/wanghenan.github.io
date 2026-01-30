@@ -83,7 +83,7 @@ function extractMetadata(filePath, content, body) {
   const categoryPrefix = dirName.replace(/^(\d+[-_]?)/, '').trim()
   
   return {
-    id: Date.now() + Math.random(),
+    id: Math.floor(Date.now() + Math.random() * 1000),
     title: `[${categoryPrefix}] ${title}`,
     description,
     content: body,
