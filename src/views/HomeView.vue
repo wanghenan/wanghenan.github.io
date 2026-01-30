@@ -6,25 +6,25 @@
         <h1 class="text-4xl md:text-5xl font-bold text-dark mb-6">
           你好，我是<span class="text-primary">Hernon</span>
         </h1>
-        <p class="text-lg text-gray-600 leading-relaxed mb-8 text-center">
-          <div class="grid gap-4 text-left">
-            <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
-              <span class="text-primary font-semibold">核心理念</span>
-              <p class="mt-1 text-sm">像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。</p>
+        <p class="text-lg text-gray-600 leading-relaxed text-center">
+          <div class="grid gap-4 text-left max-w-2xl mx-auto">
+            <div class="bg-white rounded-lg p-5 shadow-sm border border-gray-100">
+              <span class="text-primary font-semibold text-lg">核心理念</span>
+              <p class="mt-2 text-sm text-gray-600">像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。</p>
             </div>
-            <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
-              <span class="text-primary font-semibold">专业擅长</span>
-              <p class="mt-1 text-sm">复杂需求梳理 · 标准化流程建立 · 跨团队技术管理</p>
+            <div class="bg-white rounded-lg p-5 shadow-sm border border-gray-100">
+              <span class="text-primary font-semibold text-lg">专业擅长</span>
+              <p class="mt-2 text-sm text-gray-600">复杂需求梳理 · 标准化流程建立 · 跨团队技术管理</p>
             </div>
-            <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
-              <span class="text-primary font-semibold">实战沉淀</span>
-              <p class="mt-1 text-sm">聚焦技术选型、流程优化与生产力工具集成的深度思考。</p>
+            <div class="bg-white rounded-lg p-5 shadow-sm border border-gray-100">
+              <span class="text-primary font-semibold text-lg">实战沉淀</span>
+              <p class="mt-2 text-sm text-gray-600">聚焦技术选型、流程优化与生产力工具集成的深度思考。</p>
             </div>
           </div>
         </p>
         
         <!-- 所有按钮 -->
-        <div class="flex flex-wrap gap-4 justify-center">
+        <div class="flex flex-wrap gap-4 justify-center mt-10">
           <router-link to="/articles" class="btn-primary">
             阅读文章
           </router-link>
