@@ -4,24 +4,12 @@ import './Navbar.css'
 
 const navLinks = [
   { path: '/', label: 'Home' },
-  { path: '/about', label: 'About' },
   { path: '/articles', label: 'Articles' },
-  { path: '/videos', label: 'Videos' },
-  { path: '/ai-products', label: 'AI Products' },
 ]
 
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
-  const [isScrolled, setIsScrolled] = useState(false)
   const location = useLocation()
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 20)
-    }
-    window.addEventListener('scroll', handleScroll)
-    return () => window.removeEventListener('scroll', handleScroll)
-  }, [])
 
   useEffect(() => {
     setIsMenuOpen(false)
@@ -32,7 +20,7 @@ function Navbar() {
   }
 
   return (
-    <nav className={`navbar ${isScrolled ? 'navbar--scrolled' : ''}`}>
+    <nav className="navbar">
       <div className="navbar__container">
         <Link to="/" className="navbar__brand" aria-label="Hernon - Home">
           <span className="navbar__logo">H</span>
@@ -62,7 +50,6 @@ function Navbar() {
                 role="menuitem"
               >
                 {link.label}
-                <span className="navbar__link-indicator"></span>
               </Link>
             </li>
           ))}
