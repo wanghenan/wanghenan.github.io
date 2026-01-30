@@ -18,5 +18,8 @@ export default defineConfig({
   server: {
     port: 5173,
     open: true
+  },
+  optimizeDeps: {
+    include: ['vue', 'vue-router', 'pinia', 'marked']
   }
 })
