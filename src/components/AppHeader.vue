@@ -27,8 +27,8 @@
 
         <!-- 搜索和移动端菜单按钮 -->
         <div class="flex items-center space-x-4">
-          <!-- 搜索框（点击后浮现） -->
-          <div class="relative">
+          <!-- 搜索框（同行显示） -->
+          <div class="relative flex items-center">
             <button 
               @click="toggleSearch"
               class="p-2 text-gray-600 hover:text-primary transition-colors"
@@ -39,13 +39,21 @@
               </svg>
             </button>
             
-            <!-- 搜索框浮现 -->
+            <!-- 搜索框（同行显示） -->
             <transition name="fade">
               <div 
                 v-if="searchOpen" 
-                class="absolute right-0 top-full mt-2 w-72 bg-white rounded-lg shadow-lg border border-gray-100 p-2 z-50"
+                class="flex items-center ml-2"
               >
                 <SearchBar @close="toggleSearch" />
+                <button 
+                  @click="toggleSearch"
+                  class="ml-2 p-1 text-gray-400 hover:text-gray-600"
+                >
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </button>
               </div>
             </transition>
           </div>
