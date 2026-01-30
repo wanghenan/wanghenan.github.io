@@ -38,6 +38,17 @@
             </svg>
             小红书
           </a>
+          <a 
+            href="https://mindspace-ashy.vercel.app/" 
+            target="_blank"
+            rel="noopener"
+            class="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-500 to-indigo-500 text-white rounded-lg hover:from-purple-600 hover:to-indigo-600 transition-colors"
+          >
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+            </svg>
+            AI产品
+          </a>
         </div>
       </div>
     </section>
