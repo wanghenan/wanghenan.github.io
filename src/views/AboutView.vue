@@ -11,8 +11,8 @@
               <span class="text-white text-3xl font-bold">W</span>
             </div>
             <div>
-              <h2 class="text-xl font-semibold text-dark">AI解决方案师</h2>
-              <p class="text-gray-500">AI解决方案师 & 技术博主</p>
+              <h2 class="text-xl font-semibold text-dark">AI方案解决师</h2>
+              <p class="text-gray-500">AI方案解决师 & 技术博主</p>
             </div>
           </div>
         </div>

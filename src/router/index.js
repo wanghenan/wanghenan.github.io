@@ -64,7 +64,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  document.title = `${to.meta.title || '页面'} | 王贺南的博客`
+  document.title = `${to.meta.title || '页面'} | Hernoon的博客`
   next()
 })
 

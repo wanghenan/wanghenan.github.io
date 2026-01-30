@@ -1,5 +1,5 @@
 <template>
-  <div class="py-12 animate-fade-in">
+  <div class="py-12 animate-fade-in max-w-4xl mx-auto px-4 sm:px-6">
     <div class="flex items-center space-x-2 mb-8">
       <span class="text-gray-500">标签：</span>
       <span class="px-3 py-1 bg-primary text-white rounded-full">

@@ -1,6 +1,6 @@
 <template>
-  <div class="py-12 animate-fade-in">
-    <h1 class="text-3xl font-bold text-dark mb-8">文章归档</h1>
+  <div class="py-12 animate-fade-in max-w-4xl mx-auto px-4 sm:px-6">
+    <h1 class="text-3xl font-bold text-dark mb-8 text-center">文章归档</h1>
 
     <div class="space-y-12">
       <div v-for="[year, articles] in articlesByDate" :key="year">

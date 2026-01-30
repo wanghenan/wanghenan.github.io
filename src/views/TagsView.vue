@@ -1,6 +1,6 @@
 <template>
-  <div class="py-12 animate-fade-in">
-    <h1 class="text-3xl font-bold text-dark mb-8">所有标签</h1>
+  <div class="py-12 animate-fade-in max-w-4xl mx-auto px-4 sm:px-6">
+    <h1 class="text-3xl font-bold text-dark mb-8 text-center">所有标签</h1>
     
     <div class="flex flex-wrap gap-4">
       <router-link 

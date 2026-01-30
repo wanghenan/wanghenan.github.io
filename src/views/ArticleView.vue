@@ -1,5 +1,5 @@
 <template>
-  <div class="py-12 animate-fade-in">
+  <div class="py-12 animate-fade-in max-w-4xl mx-auto px-4 sm:px-6">
     <article v-if="article" class="max-w-3xl mx-auto">
       <!-- 文章头部 -->
       <header class="mb-8">

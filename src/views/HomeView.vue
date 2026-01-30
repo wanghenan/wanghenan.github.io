@@ -1,5 +1,5 @@
 <template>
-  <div class="animate-fade-in">
+  <div class="animate-fade-in max-w-4xl mx-auto px-4 sm:px-6">
     <!-- Hero Section -->
     <section class="py-16 md:py-24">
       <div class="max-w-3xl mx-auto text-center">
