@@ -7,17 +7,17 @@
           你好，我是<span class="text-primary">Hernon</span>
         </h1>
 
-        <!-- 三卡片介绍 -->
-        <div class="grid gap-3 text-left max-w-2xl mx-auto mt-12 mb-6">
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+        <!-- 三卡片放入一块逐条展示 -->
+        <div class="bg-white rounded-lg shadow-sm border border-gray-100 text-left max-w-2xl mx-auto mt-12 mb-6">
+          <div class="p-4 border-b border-gray-100">
             <span class="text-primary font-semibold">核心理念</span>
             <p class="mt-1 text-sm text-gray-600">像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。</p>
           </div>
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+          <div class="p-4 border-b border-gray-100">
             <span class="text-primary font-semibold">专业擅长</span>
             <p class="mt-1 text-sm text-gray-600">复杂需求梳理 · 标准化流程建立 · 跨团队技术管理</p>
           </div>
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+          <div class="p-4">
             <span class="text-primary font-semibold">实战沉淀</span>
             <p class="mt-1 text-sm text-gray-600">聚焦技术选型、流程优化与生产力工具集成的深度思考。</p>
           </div>
