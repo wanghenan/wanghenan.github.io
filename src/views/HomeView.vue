@@ -48,17 +48,20 @@
               AI产品
             </a>
           </div>
-          <div class="p-4 border-b border-gray-100">
-            <span class="text-primary font-semibold">核心理念</span>
-            <p class="mt-1 text-sm text-gray-600">像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。</p>
-          </div>
-          <div class="p-4 border-b border-gray-100">
-            <span class="text-primary font-semibold">专业擅长</span>
-            <p class="mt-1 text-sm text-gray-600">复杂需求梳理 · 标准化流程建立 · 跨团队技术管理</p>
-          </div>
-          <div class="p-4">
-            <span class="text-primary font-semibold">实战沉淀</span>
-            <p class="mt-1 text-sm text-gray-600">聚焦技术选型、流程优化与生产力工具集成的深度思考。</p>
+          <!-- 三条目整体区分 -->
+          <div>
+            <div class="p-4 border-b border-gray-100">
+              <span class="text-primary font-semibold">核心理念</span>
+              <p class="mt-1 text-sm text-gray-600">像管理"聪明人"一样驱动 AI。通过精确表达需求、量化交付标准、主导核心判断，将 AI 从工具进化为深度合作伙伴。</p>
+            </div>
+            <div class="p-4 border-b border-gray-100">
+              <span class="text-primary font-semibold">专业擅长</span>
+              <p class="mt-1 text-sm text-gray-600">复杂需求梳理 · 标准化流程建立 · 跨团队技术管理</p>
+            </div>
+            <div class="p-4">
+              <span class="text-primary font-semibold">实战沉淀</span>
+              <p class="mt-1 text-sm text-gray-600">聚焦技术选型、流程优化与生产力工具集成的深度思考。</p>
+            </div>
           </div>
         </div>
       </div>
