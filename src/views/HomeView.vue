@@ -66,7 +66,7 @@
     </section>
 
     <!-- 精选文章 -->
-    <section class="py-12 border-t border-gray-100">
+    <section class="py-8 border-t border-gray-100">
       <div class="flex items-center justify-between mb-8">
         <h2 class="text-2xl font-bold text-dark">精选文章</h2>
         <router-link to="/articles" class="text-primary hover:text-secondary 
@@ -85,7 +85,7 @@
     </section>
 
     <!-- 最新文章 -->
-    <section class="py-12 border-t border-gray-100">
+    <section class="py-8 border-t border-gray-100">
       <div class="flex items-center justify-between mb-8">
         <h2 class="text-2xl font-bold text-dark">最新文章</h2>
         <router-link to="/articles" class="text-primary hover:text-secondary 
