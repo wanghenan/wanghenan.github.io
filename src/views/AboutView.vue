@@ -19,7 +19,12 @@
 
         <p class="text-gray-600 leading-relaxed mb-4 text-center">
           你好！我是一名解决方案师。
-          我喜欢学习业务，技术，分享知识，并致力于构建更好的产品。
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-4 text-center">
+          <span class="font-semibold text-primary">技术人 · 产品心</span>
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-4 text-center">
+          我热衷于探索技术与业务的交汇点，相信好的产品源于对真实需求的深刻理解。持续学习、乐于分享，致力于打造真正有价值的产品体验。
         </p>
       </section>
 
