@@ -1,7 +1,7 @@
 <template>
   <div class="animate-fade-in max-w-4xl mx-auto px-4 sm:px-6">
     <!-- Hero Section -->
-    <section class="py-16 md:py-24">
+    <section class="py-8 md:py-12">
       <div class="max-w-3xl mx-auto text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-dark mb-6">
           你好，我是<span class="text-primary">Hernon</span>
